@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 08 01:38:56 +0000 2017",
+		"id": 883500618723098600,
+		"id_str": "883500618723098624",
+		"text": "RT @dancooki: #혐스일 \n꺄륵꺄륵 애니메이션 만들기 재밌ㄱㅎ 안경장관님 만셐 어후ㅠㅇ흡흑 https://t.co/CnqzKSK0Xu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dancooki",
+					"name": "단쿠키",
+					"id": 766513851064021000,
+					"id_str": "766513851064020992",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 883398212693893100,
+					"id_str": "883398212693893124",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEJ1_nbVoAQNimO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEJ1_nbVoAQNimO.jpg",
+					"url": "https://t.co/CnqzKSK0Xu",
+					"display_url": "pic.twitter.com/CnqzKSK0Xu",
+					"expanded_url": "https://twitter.com/dancooki/status/883398236395810819/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 254,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 404,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883398236395810800,
+					"source_status_id_str": "883398236395810819",
+					"source_user_id": 766513851064021000,
+					"source_user_id_str": "766513851064020992"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 883398212693893100,
+					"id_str": "883398212693893124",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEJ1_nbVoAQNimO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEJ1_nbVoAQNimO.jpg",
+					"url": "https://t.co/CnqzKSK0Xu",
+					"display_url": "pic.twitter.com/CnqzKSK0Xu",
+					"expanded_url": "https://twitter.com/dancooki/status/883398236395810819/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 254,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 404,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883398236395810800,
+					"source_status_id_str": "883398236395810819",
+					"source_user_id": 766513851064021000,
+					"source_user_id_str": "766513851064020992",
+					"video_info": {
+						"aspect_ratio": [
+							135,
+							101
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DEJ1_nbVoAQNimO.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지)를 주시면 비번 보내드립니다. 공지사항은 메인트윗 및 마음에 있습니다. (읽어주세요!) 인장과 헤더 : 좌표평면님 @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 6,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 9,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3527,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 07 18:52:06 +0000 2017",
+			"id": 883398236395810800,
+			"id_str": "883398236395810819",
+			"text": "#혐스일 \n꺄륵꺄륵 애니메이션 만들기 재밌ㄱㅎ 안경장관님 만셐 어후ㅠㅇ흡흑 https://t.co/CnqzKSK0Xu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일",
+						"indices": [
+							0,
+							4
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 883398212693893100,
+						"id_str": "883398212693893124",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEJ1_nbVoAQNimO.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEJ1_nbVoAQNimO.jpg",
+						"url": "https://t.co/CnqzKSK0Xu",
+						"display_url": "pic.twitter.com/CnqzKSK0Xu",
+						"expanded_url": "https://twitter.com/dancooki/status/883398236395810819/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 254,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 404,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 404,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 883398212693893100,
+						"id_str": "883398212693893124",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEJ1_nbVoAQNimO.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEJ1_nbVoAQNimO.jpg",
+						"url": "https://t.co/CnqzKSK0Xu",
+						"display_url": "pic.twitter.com/CnqzKSK0Xu",
+						"expanded_url": "https://twitter.com/dancooki/status/883398236395810819/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 254,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 404,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 404,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								135,
+								101
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DEJ1_nbVoAQNimO.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 766513851064021000,
+				"id_str": "766513851064020992",
+				"name": "단쿠키",
+				"screen_name": "dancooki",
+				"location": "트위터 촙자수준러",
+				"description": "존잘님들을 알아뵙고  구독구독구독\n 놀라지 말아쥬세여 구독러입니다!\n혐스일 혐스일 장관님",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4,
+				"friends_count": 61,
+				"listed_count": 0,
+				"created_at": "Fri Aug 19 05:55:18 +0000 2016",
+				"favourites_count": 260,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 74,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883030661690310656/Xf_ARRn1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883030661690310656/Xf_ARRn1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/766513851064020992/1498078254",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Jul 07 18:01:39 +0000 2017",
 		"id": 883385540204150800,
 		"id_str": "883385540204150784",
