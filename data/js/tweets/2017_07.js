@@ -1,6 +1,160 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 25 06:50:07 +0000 2017",
+		"id": 889739524284178400,
+		"id_str": "889739524284178432",
+		"text": "생크림 묻은 장관님 손가락 노골적으로 핥는 루치 (루치: 이정도면 장관도 넘어 오겠지? uvu / 장관: 얘가 더위를 먹었나)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4667,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 25 06:50:06 +0000 2017",
+		"id": 889739518726725600,
+		"id_str": "889739518726725634",
+		"text": "원작에 루치 cp0 데뷔랑 스팬담의 '나리'가 나오기 전에 전개가 진행되었으면 역시 지금 스토리가 달랐겠죠... 어떤 내용이 되려고했을까",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4667,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Jul 25 03:53:04 +0000 2017",
 		"id": 889694966628335600,
 		"id_str": "889694966628335616",
@@ -42434,7 +42588,7 @@ Grailbird.data.tweets_2017_07 =
 					"id": 871331512188149800
 				},
 				{
-					"name": "🏋️‍♂️좌표평면🏋️‍♂️",
+					"name": "🏋️♂️좌표평면🏋️♂️",
 					"screen_name": "jwapyoman_",
 					"indices": [
 						32,
@@ -42497,7 +42651,7 @@ Grailbird.data.tweets_2017_07 =
 			"entities": {
 				"user_mentions": [
 					{
-						"name": "🏋️‍♂️좌표평면🏋️‍♂️",
+						"name": "🏋️♂️좌표평면🏋️♂️",
 						"screen_name": "jwapyoman_",
 						"indices": [
 							16,
@@ -57896,7 +58050,7 @@ Grailbird.data.tweets_2017_07 =
 		},
 		"geo": {},
 		"id_str": "884437582813122560",
-		"text": "블루노:༼;´༎ຶ ۝ ༎ຶ༽ \n터포키:༼;´༎ຶ ۝ ༎ຶ༽ \n나:༼;´༎ຶ ۝ ༎ຶ༽ \n\n장관:(평온)",
+		"text": "블루노:༼;´༎ຶ  ༎ຶ༽ \n터포키:༼;´༎ຶ  ༎ຶ༽ \n나:༼;´༎ຶ  ༎ຶ༽ \n\n장관:(평온)",
 		"id": 884437582813122600,
 		"created_at": "2017-07-10 15:42:06 +0000",
 		"user": {
@@ -69480,7 +69634,7 @@ Grailbird.data.tweets_2017_07 =
 		"entities": {
 			"user_mentions": [
 				{
-					"name": "🏋️‍♂️좌표평면🏋️‍♂️",
+					"name": "🏋️♂️좌표평면🏋️♂️",
 					"screen_name": "jwapyoman_",
 					"indices": [
 						3,
@@ -113871,7 +114025,7 @@ Grailbird.data.tweets_2017_07 =
 		"entities": {
 			"user_mentions": [
 				{
-					"name": "🏋️‍♂️좌표평면🏋️‍♂️",
+					"name": "🏋️♂️좌표평면🏋️♂️",
 					"screen_name": "jwapyoman_",
 					"indices": [
 						3,
