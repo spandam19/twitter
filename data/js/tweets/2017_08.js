@@ -1,6 +1,820 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 02 16:03:13 +0000 2017",
+		"id": 892777818727227400,
+		"id_str": "892777818727227392",
+		"text": "RT @Roong_Roong: 색칠하기싫은데 흰색을 못보는 병에걸려서 응급조치취함 https://t.co/iQGnPxA5Nh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Roong_Roong",
+					"name": "🐰🐰룽룽🐰🐰",
+					"id": 872809588042547200,
+					"id_str": "872809588042547200",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 892763390203936800,
+					"id_str": "892763390203936768",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DGO7ksWUQAAqKAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGO7ksWUQAAqKAV.jpg",
+					"url": "https://t.co/iQGnPxA5Nh",
+					"display_url": "pic.twitter.com/iQGnPxA5Nh",
+					"expanded_url": "https://twitter.com/Roong_Roong/status/892763415134912513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1571,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 921,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 892763415134912500,
+					"source_status_id_str": "892763415134912513",
+					"source_user_id": 872809588042547200,
+					"source_user_id_str": "872809588042547200"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 892763390203936800,
+					"id_str": "892763390203936768",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DGO7ksWUQAAqKAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGO7ksWUQAAqKAV.jpg",
+					"url": "https://t.co/iQGnPxA5Nh",
+					"display_url": "pic.twitter.com/iQGnPxA5Nh",
+					"expanded_url": "https://twitter.com/Roong_Roong/status/892763415134912513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1571,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 921,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 892763415134912500,
+					"source_status_id_str": "892763415134912513",
+					"source_user_id": 872809588042547200,
+					"source_user_id_str": "872809588042547200"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 496,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5093,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 02 15:05:59 +0000 2017",
+			"id": 892763415134912500,
+			"id_str": "892763415134912513",
+			"text": "색칠하기싫은데 흰색을 못보는 병에걸려서 응급조치취함 https://t.co/iQGnPxA5Nh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 892763390203936800,
+						"id_str": "892763390203936768",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DGO7ksWUQAAqKAV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGO7ksWUQAAqKAV.jpg",
+						"url": "https://t.co/iQGnPxA5Nh",
+						"display_url": "pic.twitter.com/iQGnPxA5Nh",
+						"expanded_url": "https://twitter.com/Roong_Roong/status/892763415134912513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 522,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1571,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 921,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 892763390203936800,
+						"id_str": "892763390203936768",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DGO7ksWUQAAqKAV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGO7ksWUQAAqKAV.jpg",
+						"url": "https://t.co/iQGnPxA5Nh",
+						"display_url": "pic.twitter.com/iQGnPxA5Nh",
+						"expanded_url": "https://twitter.com/Roong_Roong/status/892763415134912513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 522,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1571,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 921,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 872809588042547200,
+				"id_str": "872809588042547200",
+				"name": "🐰🐰룽룽🐰🐰",
+				"screen_name": "Roong_Roong",
+				"location": "",
+				"description": "성인 * 아무말대잔치 * 의식의흐름 * 손그림러 * 낙서90% * 주로저녁에등장 * 말걸어주면98%로좋아함",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50,
+				"friends_count": 71,
+				"listed_count": 0,
+				"created_at": "Thu Jun 08 13:36:36 +0000 2017",
+				"favourites_count": 1388,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 917,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/891442190966075392/ei9XtyMq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/891442190966075392/ei9XtyMq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/872809588042547200/1501150133",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 02 16:03:00 +0000 2017",
+		"id": 892777762070474800,
+		"id_str": "892777762070474752",
+		"text": "RT @Roong_Roong: 뱅단이즈\n무관 홍견에게 폭풍 구애를 받는중.. https://t.co/7li611pk5f",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Roong_Roong",
+					"name": "🐰🐰룽룽🐰🐰",
+					"id": 872809588042547200,
+					"id_str": "872809588042547200",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 892776062236545000,
+					"id_str": "892776062236545024",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DGPHGTWU0AAH8ma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGPHGTWU0AAH8ma.jpg",
+					"url": "https://t.co/7li611pk5f",
+					"display_url": "pic.twitter.com/7li611pk5f",
+					"expanded_url": "https://twitter.com/Roong_Roong/status/892776111007973381/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1553,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 892776111007973400,
+					"source_status_id_str": "892776111007973381",
+					"source_user_id": 872809588042547200,
+					"source_user_id_str": "872809588042547200"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 892776062236545000,
+					"id_str": "892776062236545024",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DGPHGTWU0AAH8ma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGPHGTWU0AAH8ma.jpg",
+					"url": "https://t.co/7li611pk5f",
+					"display_url": "pic.twitter.com/7li611pk5f",
+					"expanded_url": "https://twitter.com/Roong_Roong/status/892776111007973381/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1553,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 892776111007973400,
+					"source_status_id_str": "892776111007973381",
+					"source_user_id": 872809588042547200,
+					"source_user_id_str": "872809588042547200"
+				},
+				{
+					"id": 892776062232350700,
+					"id_str": "892776062232350720",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DGPHGTVU0AARkeh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGPHGTVU0AARkeh.jpg",
+					"url": "https://t.co/7li611pk5f",
+					"display_url": "pic.twitter.com/7li611pk5f",
+					"expanded_url": "https://twitter.com/Roong_Roong/status/892776111007973381/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 892776111007973400,
+					"source_status_id_str": "892776111007973381",
+					"source_user_id": 872809588042547200,
+					"source_user_id_str": "872809588042547200"
+				},
+				{
+					"id": 892776062978900000,
+					"id_str": "892776062978899970",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DGPHGWHUQAIsh78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGPHGWHUQAIsh78.jpg",
+					"url": "https://t.co/7li611pk5f",
+					"display_url": "pic.twitter.com/7li611pk5f",
+					"expanded_url": "https://twitter.com/Roong_Roong/status/892776111007973381/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1395,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 817,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 892776111007973400,
+					"source_status_id_str": "892776111007973381",
+					"source_user_id": 872809588042547200,
+					"source_user_id_str": "872809588042547200"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 496,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5093,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 02 15:56:26 +0000 2017",
+			"id": 892776111007973400,
+			"id_str": "892776111007973381",
+			"text": "뱅단이즈\n무관 홍견에게 폭풍 구애를 받는중.. https://t.co/7li611pk5f",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 892776062236545000,
+						"id_str": "892776062236545024",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DGPHGTWU0AAH8ma.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGPHGTWU0AAH8ma.jpg",
+						"url": "https://t.co/7li611pk5f",
+						"display_url": "pic.twitter.com/7li611pk5f",
+						"expanded_url": "https://twitter.com/Roong_Roong/status/892776111007973381/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 516,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 910,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1553,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 892776062236545000,
+						"id_str": "892776062236545024",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DGPHGTWU0AAH8ma.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGPHGTWU0AAH8ma.jpg",
+						"url": "https://t.co/7li611pk5f",
+						"display_url": "pic.twitter.com/7li611pk5f",
+						"expanded_url": "https://twitter.com/Roong_Roong/status/892776111007973381/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 516,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 910,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1553,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 892776062232350700,
+						"id_str": "892776062232350720",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DGPHGTVU0AARkeh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGPHGTVU0AARkeh.jpg",
+						"url": "https://t.co/7li611pk5f",
+						"display_url": "pic.twitter.com/7li611pk5f",
+						"expanded_url": "https://twitter.com/Roong_Roong/status/892776111007973381/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 543,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1636,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 959,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 892776062978900000,
+						"id_str": "892776062978899970",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DGPHGWHUQAIsh78.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGPHGWHUQAIsh78.jpg",
+						"url": "https://t.co/7li611pk5f",
+						"display_url": "pic.twitter.com/7li611pk5f",
+						"expanded_url": "https://twitter.com/Roong_Roong/status/892776111007973381/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1395,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 463,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 817,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 872809588042547200,
+				"id_str": "872809588042547200",
+				"name": "🐰🐰룽룽🐰🐰",
+				"screen_name": "Roong_Roong",
+				"location": "",
+				"description": "성인 * 아무말대잔치 * 의식의흐름 * 손그림러 * 낙서90% * 주로저녁에등장 * 말걸어주면98%로좋아함",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50,
+				"friends_count": 71,
+				"listed_count": 0,
+				"created_at": "Thu Jun 08 13:36:36 +0000 2017",
+				"favourites_count": 1388,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 917,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/891442190966075392/ei9XtyMq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/891442190966075392/ei9XtyMq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/872809588042547200/1501150133",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Aug 02 14:59:38 +0000 2017",
 		"id": 892761815536484400,
 		"id_str": "892761815536484352",
