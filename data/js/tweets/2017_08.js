@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 03 10:33:51 +0000 2017",
+		"id": 893057318660710400,
+		"id_str": "893057318660710401",
+		"text": "RT @Burn11234: 막상그리느 참 연결 별루다... https://t.co/QyEarNWv7M",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Burn11234",
+					"name": "Burn",
+					"id": 876700018765201400,
+					"id_str": "876700018765201408",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 893055727434059800,
+					"id_str": "893055727434059776",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DGTFc9ZV0AA36XY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGTFc9ZV0AA36XY.jpg",
+					"url": "https://t.co/QyEarNWv7M",
+					"display_url": "pic.twitter.com/QyEarNWv7M",
+					"expanded_url": "https://twitter.com/Burn11234/status/893055790092754945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 211,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 371,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 634,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 893055790092755000,
+					"source_status_id_str": "893055790092754945",
+					"source_user_id": 876700018765201400,
+					"source_user_id_str": "876700018765201408"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 893055727434059800,
+					"id_str": "893055727434059776",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DGTFc9ZV0AA36XY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGTFc9ZV0AA36XY.jpg",
+					"url": "https://t.co/QyEarNWv7M",
+					"display_url": "pic.twitter.com/QyEarNWv7M",
+					"expanded_url": "https://twitter.com/Burn11234/status/893055790092754945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 211,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 371,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 634,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 893055790092755000,
+					"source_status_id_str": "893055790092754945",
+					"source_user_id": 876700018765201400,
+					"source_user_id_str": "876700018765201408"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 496,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5097,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 03 10:27:47 +0000 2017",
+			"id": 893055790092755000,
+			"id_str": "893055790092754945",
+			"text": "막상그리느 참 연결 별루다... https://t.co/QyEarNWv7M",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 893055727434059800,
+						"id_str": "893055727434059776",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DGTFc9ZV0AA36XY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGTFc9ZV0AA36XY.jpg",
+						"url": "https://t.co/QyEarNWv7M",
+						"display_url": "pic.twitter.com/QyEarNWv7M",
+						"expanded_url": "https://twitter.com/Burn11234/status/893055790092754945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 211,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 371,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 634,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 893055727434059800,
+						"id_str": "893055727434059776",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DGTFc9ZV0AA36XY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGTFc9ZV0AA36XY.jpg",
+						"url": "https://t.co/QyEarNWv7M",
+						"display_url": "pic.twitter.com/QyEarNWv7M",
+						"expanded_url": "https://twitter.com/Burn11234/status/893055790092754945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 211,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 371,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 634,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 893055628108742700,
+			"in_reply_to_status_id_str": "893055628108742656",
+			"in_reply_to_user_id": 876700018765201400,
+			"in_reply_to_user_id_str": "876700018765201408",
+			"in_reply_to_screen_name": "Burn11234",
+			"user": {
+				"id": 876700018765201400,
+				"id_str": "876700018765201408",
+				"name": "Burn",
+				"screen_name": "Burn11234",
+				"location": "",
+				"description": "결국 파버렸다... 혐스일 덕계정\n\n성인/ 낙서낙서/원피스 / 혐스일 /",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30,
+				"friends_count": 53,
+				"listed_count": 0,
+				"created_at": "Mon Jun 19 07:15:47 +0000 2017",
+				"favourites_count": 716,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 353,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876704953766617088/krqEZYff_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876704953766617088/krqEZYff_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/876700018765201408/1500516539",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Aug 03 04:32:42 +0000 2017",
 		"id": 892966433734369300,
 		"id_str": "892966433734369280",
