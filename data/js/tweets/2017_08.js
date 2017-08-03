@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 03 14:22:31 +0000 2017",
+		"id": 893114865300025300,
+		"id_str": "893114865300025349",
+		"text": "RT @pandang39: #혐스일\n하토장관 https://t.co/cCN8uklYbk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일",
+					"indices": [
+						15,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pandang39",
+					"name": "🐼판당고🍡",
+					"id": 878847055065632800,
+					"id_str": "878847055065632769",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 893102355498926100,
+					"id_str": "893102355498926080",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/DGTv3EeUAAA2aYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGTv3EeUAAA2aYe.jpg",
+					"url": "https://t.co/cCN8uklYbk",
+					"display_url": "pic.twitter.com/cCN8uklYbk",
+					"expanded_url": "https://twitter.com/pandang39/status/893102516975452162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 215,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 379,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 893102516975452200,
+					"source_status_id_str": "893102516975452162",
+					"source_user_id": 878847055065632800,
+					"source_user_id_str": "878847055065632769"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 893102355498926100,
+					"id_str": "893102355498926080",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/DGTv3EeUAAA2aYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGTv3EeUAAA2aYe.jpg",
+					"url": "https://t.co/cCN8uklYbk",
+					"display_url": "pic.twitter.com/cCN8uklYbk",
+					"expanded_url": "https://twitter.com/pandang39/status/893102516975452162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 215,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 379,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 893102516975452200,
+					"source_status_id_str": "893102516975452162",
+					"source_user_id": 878847055065632800,
+					"source_user_id_str": "878847055065632769"
+				},
+				{
+					"id": 893102371466690600,
+					"id_str": "893102371466690560",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/DGTv3_9UwAAsRCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGTv3_9UwAAsRCP.jpg",
+					"url": "https://t.co/cCN8uklYbk",
+					"display_url": "pic.twitter.com/cCN8uklYbk",
+					"expanded_url": "https://twitter.com/pandang39/status/893102516975452162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 893102516975452200,
+					"source_status_id_str": "893102516975452162",
+					"source_user_id": 878847055065632800,
+					"source_user_id_str": "878847055065632769"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 497,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5100,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 03 13:33:27 +0000 2017",
+			"id": 893102516975452200,
+			"id_str": "893102516975452162",
+			"text": "#혐스일\n하토장관 https://t.co/cCN8uklYbk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일",
+						"indices": [
+							0,
+							4
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 893102355498926100,
+						"id_str": "893102355498926080",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DGTv3EeUAAA2aYe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGTv3EeUAAA2aYe.jpg",
+						"url": "https://t.co/cCN8uklYbk",
+						"display_url": "pic.twitter.com/cCN8uklYbk",
+						"expanded_url": "https://twitter.com/pandang39/status/893102516975452162/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 215,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 379,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 1900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 893102355498926100,
+						"id_str": "893102355498926080",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DGTv3EeUAAA2aYe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGTv3EeUAAA2aYe.jpg",
+						"url": "https://t.co/cCN8uklYbk",
+						"display_url": "pic.twitter.com/cCN8uklYbk",
+						"expanded_url": "https://twitter.com/pandang39/status/893102516975452162/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 215,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 379,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 1900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 893102371466690600,
+						"id_str": "893102371466690560",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DGTv3_9UwAAsRCP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGTv3_9UwAAsRCP.jpg",
+						"url": "https://t.co/cCN8uklYbk",
+						"display_url": "pic.twitter.com/cCN8uklYbk",
+						"expanded_url": "https://twitter.com/pandang39/status/893102516975452162/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 700,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 700,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 878847055065632800,
+				"id_str": "878847055065632769",
+				"name": "🐼판당고🍡",
+				"screen_name": "pandang39",
+				"location": "에니에스 로비 집무실",
+				"description": "🍷혐스일(+원피스)🍷성인 *장관른* 외에도 팝니다. / FUB FREE / 뒷계 @pandang19",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 100,
+				"friends_count": 53,
+				"listed_count": 0,
+				"created_at": "Sun Jun 25 05:27:20 +0000 2017",
+				"favourites_count": 1964,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2706,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/891656859488182272/0hrw_a-K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/891656859488182272/0hrw_a-K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/878847055065632769/1501258637",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Aug 03 11:38:21 +0000 2017",
 		"id": 893073551254736900,
 		"id_str": "893073551254736897",
@@ -351,7 +774,7 @@ Grailbird.data.tweets_2017_08 =
 		"created_at": "Thu Aug 03 11:36:23 +0000 2017",
 		"id": 893073055093637100,
 		"id_str": "893073055093637120",
-		"text": "RT @Burn11234: 115화 뺨을 때리겠다던 블루노 에 심각한 사춘기 장관님\n아킹님께서 손등이라 말씀하지 않으셨다면 유혈사태로 블루노가 기어 다니는걸 그릴려 했는데\n다행입니다🙇‍♀️  +더있어여 https://t.co/TGZAbKiErs",
+		"text": "RT @Burn11234: 115화 뺨을 때리겠다던 블루노 에 심각한 사춘기 장관님\n아킹님께서 손등이라 말씀하지 않으셨다면 유혈사태로 블루노가 기어 다니는걸 그릴려 했는데\n다행입니다🙇♀️  +더있어여 https://t.co/TGZAbKiErs",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
@@ -638,7 +1061,7 @@ Grailbird.data.tweets_2017_08 =
 			"created_at": "Thu Aug 03 10:27:08 +0000 2017",
 			"id": 893055628108742700,
 			"id_str": "893055628108742656",
-			"text": "115화 뺨을 때리겠다던 블루노 에 심각한 사춘기 장관님\n아킹님께서 손등이라 말씀하지 않으셨다면 유혈사태로 블루노가 기어 다니는걸 그릴려 했는데\n다행입니다🙇‍♀️  +더있어여 https://t.co/TGZAbKiErs",
+			"text": "115화 뺨을 때리겠다던 블루노 에 심각한 사춘기 장관님\n아킹님께서 손등이라 말씀하지 않으셨다면 유혈사태로 블루노가 기어 다니는걸 그릴려 했는데\n다행입니다🙇♀️  +더있어여 https://t.co/TGZAbKiErs",
 			"truncated": false,
 			"entities": {
 				"hashtags": [],
