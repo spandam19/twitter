@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 07 17:40:15 +0000 2017",
+		"id": 894614176949182500,
+		"id_str": "894614176949182464",
+		"text": "RT @Duckf_Duckf: 이거 아이스파/아이장관으롭 보고싶닼ㅋㅋㅋ시밬ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/x8fHt2gG6B",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Duckf_Duckf",
+					"name": "🦆덕프🦆",
+					"id": 868435902468456400,
+					"id_str": "868435902468456449",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 894597408830521300,
+					"id_str": "894597408830521345",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DGo_moJUAAEHLtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGo_moJUAAEHLtf.jpg",
+					"url": "https://t.co/x8fHt2gG6B",
+					"display_url": "pic.twitter.com/x8fHt2gG6B",
+					"expanded_url": "https://twitter.com/Duckf_Duckf/status/894597433308532736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 894597433308532700,
+					"source_status_id_str": "894597433308532736",
+					"source_user_id": 868435902468456400,
+					"source_user_id_str": "868435902468456449"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 894597408830521300,
+					"id_str": "894597408830521345",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DGo_moJUAAEHLtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGo_moJUAAEHLtf.jpg",
+					"url": "https://t.co/x8fHt2gG6B",
+					"display_url": "pic.twitter.com/x8fHt2gG6B",
+					"expanded_url": "https://twitter.com/Duckf_Duckf/status/894597433308532736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 894597433308532700,
+					"source_status_id_str": "894597433308532736",
+					"source_user_id": 868435902468456400,
+					"source_user_id_str": "868435902468456449"
+				},
+				{
+					"id": 894597417223430100,
+					"id_str": "894597417223430144",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DGo_nHaVoAA3jNP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGo_nHaVoAA3jNP.jpg",
+					"url": "https://t.co/x8fHt2gG6B",
+					"display_url": "pic.twitter.com/x8fHt2gG6B",
+					"expanded_url": "https://twitter.com/Duckf_Duckf/status/894597433308532736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 894597433308532700,
+					"source_status_id_str": "894597433308532736",
+					"source_user_id": 868435902468456400,
+					"source_user_id_str": "868435902468456449"
+				},
+				{
+					"id": 894597425075060700,
+					"id_str": "894597425075060736",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DGo_nkqUAAAzO77.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGo_nkqUAAAzO77.jpg",
+					"url": "https://t.co/x8fHt2gG6B",
+					"display_url": "pic.twitter.com/x8fHt2gG6B",
+					"expanded_url": "https://twitter.com/Duckf_Duckf/status/894597433308532736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 894597433308532700,
+					"source_status_id_str": "894597433308532736",
+					"source_user_id": 868435902468456400,
+					"source_user_id_str": "868435902468456449"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 500,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 17,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5299,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 07 16:33:43 +0000 2017",
+			"id": 894597433308532700,
+			"id_str": "894597433308532736",
+			"text": "이거 아이스파/아이장관으롭 보고싶닼ㅋㅋㅋ시밬ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/x8fHt2gG6B",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 894597408830521300,
+						"id_str": "894597408830521345",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DGo_moJUAAEHLtf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGo_moJUAAEHLtf.jpg",
+						"url": "https://t.co/x8fHt2gG6B",
+						"display_url": "pic.twitter.com/x8fHt2gG6B",
+						"expanded_url": "https://twitter.com/Duckf_Duckf/status/894597433308532736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 507,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 764,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 764,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 894597408830521300,
+						"id_str": "894597408830521345",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DGo_moJUAAEHLtf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGo_moJUAAEHLtf.jpg",
+						"url": "https://t.co/x8fHt2gG6B",
+						"display_url": "pic.twitter.com/x8fHt2gG6B",
+						"expanded_url": "https://twitter.com/Duckf_Duckf/status/894597433308532736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 507,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 764,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 764,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 894597417223430100,
+						"id_str": "894597417223430144",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DGo_nHaVoAA3jNP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGo_nHaVoAA3jNP.jpg",
+						"url": "https://t.co/x8fHt2gG6B",
+						"display_url": "pic.twitter.com/x8fHt2gG6B",
+						"expanded_url": "https://twitter.com/Duckf_Duckf/status/894597433308532736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 764,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 507,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 764,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 894597425075060700,
+						"id_str": "894597425075060736",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DGo_nkqUAAAzO77.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGo_nkqUAAAzO77.jpg",
+						"url": "https://t.co/x8fHt2gG6B",
+						"display_url": "pic.twitter.com/x8fHt2gG6B",
+						"expanded_url": "https://twitter.com/Duckf_Duckf/status/894597433308532736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 764,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 764,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 507,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 868435902468456400,
+				"id_str": "868435902468456449",
+				"name": "🦆덕프🦆",
+				"screen_name": "Duckf_Duckf",
+				"location": "모든 창작물의 무단불펌 및 무단도용, 공유를 금지합니다",
+				"description": "덕질함/일함/트윗 뜸함/수위 조절 안함. 팔로시 주의/메인트 꼭 읽어주세요/  @Duckf_adult :뒷계/",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107,
+				"friends_count": 18,
+				"listed_count": 0,
+				"created_at": "Sat May 27 11:57:08 +0000 2017",
+				"favourites_count": 247,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 929,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/892031152873025536/Ic9qU-yc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/892031152873025536/Ic9qU-yc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/868435902468456449/1499751852",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Aug 07 16:53:05 +0000 2017",
 		"id": 894602306699763700,
 		"id_str": "894602306699763712",
