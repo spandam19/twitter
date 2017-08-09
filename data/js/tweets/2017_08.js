@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 09 10:46:58 +0000 2017",
+		"id": 895234947408986100,
+		"id_str": "895234947408986118",
+		"text": "기린이 자는 자세가 왼쪽처럼 머리를 엉덩이 위에 올리고 잔다고 해서 저러다 카쿠 수인화해서 자다가 꺾여서 죽으면 어쩌지라고 걱정했는데 오른쪽보고 역으로 꺾어다녀도 죽을 일은 없겠다 싶어서 안심된다. https://t.co/c59Fkikgnm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 895234883789873200,
+					"id_str": "895234883789873154",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DGyDYjbVYAIAs5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGyDYjbVYAIAs5w.jpg",
+					"url": "https://t.co/c59Fkikgnm",
+					"display_url": "pic.twitter.com/c59Fkikgnm",
+					"expanded_url": "https://twitter.com/spandambamboo3/status/895234947408986118/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 295,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 521,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 1243,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 895234883789873200,
+					"id_str": "895234883789873154",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DGyDYjbVYAIAs5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGyDYjbVYAIAs5w.jpg",
+					"url": "https://t.co/c59Fkikgnm",
+					"display_url": "pic.twitter.com/c59Fkikgnm",
+					"expanded_url": "https://twitter.com/spandambamboo3/status/895234947408986118/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 295,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 521,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 1243,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 895234900885778400,
+					"id_str": "895234900885778432",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DGyDZjHUMAAH0TZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGyDZjHUMAAH0TZ.jpg",
+					"url": "https://t.co/c59Fkikgnm",
+					"display_url": "pic.twitter.com/c59Fkikgnm",
+					"expanded_url": "https://twitter.com/spandambamboo3/status/895234947408986118/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 746,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1274,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 13,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5364,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Aug 09 09:26:47 +0000 2017",
 		"id": 895214766402056200,
 		"id_str": "895214766402056192",
