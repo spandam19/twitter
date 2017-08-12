@@ -1,6 +1,772 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 12 14:06:36 +0000 2017",
+		"id": 896372350991556600,
+		"id_str": "896372350991556608",
+		"text": "RT @Duckf_Duckf: #혐스일_전력\n\n\"그래서 푸딩. 다음 식사는?\" https://t.co/5PkH5z8EEL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일_전력",
+					"indices": [
+						17,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Duckf_Duckf",
+					"name": "🦆덕프🦆",
+					"id": 868435902468456400,
+					"id_str": "868435902468456449",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 896370572241715200,
+					"id_str": "896370572241715200",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DHCMSUmUwAA6s3j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHCMSUmUwAA6s3j.jpg",
+					"url": "https://t.co/5PkH5z8EEL",
+					"display_url": "pic.twitter.com/5PkH5z8EEL",
+					"expanded_url": "https://twitter.com/Duckf_Duckf/status/896370782326013952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 896370782326014000,
+					"source_status_id_str": "896370782326013952",
+					"source_user_id": 868435902468456400,
+					"source_user_id_str": "868435902468456449"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 896370572241715200,
+					"id_str": "896370572241715200",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DHCMSUmUwAA6s3j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHCMSUmUwAA6s3j.jpg",
+					"url": "https://t.co/5PkH5z8EEL",
+					"display_url": "pic.twitter.com/5PkH5z8EEL",
+					"expanded_url": "https://twitter.com/Duckf_Duckf/status/896370782326013952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 896370782326014000,
+					"source_status_id_str": "896370782326013952",
+					"source_user_id": 868435902468456400,
+					"source_user_id_str": "868435902468456449"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5431,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 14:00:22 +0000 2017",
+			"id": 896370782326014000,
+			"id_str": "896370782326013952",
+			"text": "#혐스일_전력\n\n\"그래서 푸딩. 다음 식사는?\" https://t.co/5PkH5z8EEL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일_전력",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896370572241715200,
+						"id_str": "896370572241715200",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DHCMSUmUwAA6s3j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHCMSUmUwAA6s3j.jpg",
+						"url": "https://t.co/5PkH5z8EEL",
+						"display_url": "pic.twitter.com/5PkH5z8EEL",
+						"expanded_url": "https://twitter.com/Duckf_Duckf/status/896370782326013952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1448,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896370572241715200,
+						"id_str": "896370572241715200",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DHCMSUmUwAA6s3j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHCMSUmUwAA6s3j.jpg",
+						"url": "https://t.co/5PkH5z8EEL",
+						"display_url": "pic.twitter.com/5PkH5z8EEL",
+						"expanded_url": "https://twitter.com/Duckf_Duckf/status/896370782326013952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1448,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 868435902468456400,
+				"id_str": "868435902468456449",
+				"name": "🦆덕프🦆",
+				"screen_name": "Duckf_Duckf",
+				"location": "모든 창작물의 무단불펌 및 무단도용, 공유를 금지합니다",
+				"description": "덕질함/일함/트윗 뜸함/수위 조절 안함. 팔로시 주의/메인트 꼭 읽어주세요/  @Duckf_adult :뒷계/",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107,
+				"friends_count": 18,
+				"listed_count": 0,
+				"created_at": "Sat May 27 11:57:08 +0000 2017",
+				"favourites_count": 251,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1084,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/892031152873025536/Ic9qU-yc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/892031152873025536/Ic9qU-yc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/868435902468456449/1499751852",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Aug 12 14:06:33 +0000 2017",
+		"id": 896372338572238800,
+		"id_str": "896372338572238848",
+		"text": "RT @icepandam: 마지막 식사 - 아이스파\n#혐스일_전력\n아 전력이라서 급하게 썼는데 (영화보러가야댐) 담에 제대로 한번 풀겠슴다ㅇㅅㅇ☆\n케이크버스..라고 봐주세오..(아닌거같음\nhttps://t.co/bzZzygc68d",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일_전력",
+					"indices": [
+						29,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "icepandam",
+					"name": "아이스파 주식맨 아스",
+					"id": 801454099648516100,
+					"id_str": "801454099648516096",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bzZzygc68d",
+					"expanded_url": "https://www.evernote.com/shard/s315/sh/bc65bf34-61e7-41c0-b448-3b2987613085/e3fab7efdcb7dde9a21c40d4c379e6f2",
+					"display_url": "evernote.com/shard/s315/sh/…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5431,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 13:44:36 +0000 2017",
+			"id": 896366814577311700,
+			"id_str": "896366814577311746",
+			"text": "마지막 식사 - 아이스파\n#혐스일_전력\n아 전력이라서 급하게 썼는데 (영화보러가야댐) 담에 제대로 한번 풀겠슴다ㅇㅅㅇ☆\n케이크버스..라고 봐주세오..(아닌거같음\nhttps://t.co/bzZzygc68d",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일_전력",
+						"indices": [
+							14,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bzZzygc68d",
+						"expanded_url": "https://www.evernote.com/shard/s315/sh/bc65bf34-61e7-41c0-b448-3b2987613085/e3fab7efdcb7dde9a21c40d4c379e6f2",
+						"display_url": "evernote.com/shard/s315/sh/…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 801454099648516100,
+				"id_str": "801454099648516096",
+				"name": "아이스파 주식맨 아스",
+				"screen_name": "icepandam",
+				"location": "빙산 위 대나무숲",
+				"description": "소비러/ 낙서러/ 아이스파 주식삼/손그림러/ 아이스버그에 인생배팅 / 혐스일 버닝🔥/ 밤이나 새벽에만 접속/현생 뿌샤뿌샤/뒷계 : @icepandam_FIRE",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 112,
+				"friends_count": 67,
+				"listed_count": 0,
+				"created_at": "Wed Nov 23 15:55:22 +0000 2016",
+				"favourites_count": 5234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7271,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895696340851740672/SfGiy6dg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895696340851740672/SfGiy6dg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/801454099648516096/1502264331",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Aug 12 14:06:30 +0000 2017",
+		"id": 896372325263720400,
+		"id_str": "896372325263720448",
+		"text": "RT @scaryludin: #혐스일_전력 주제는 식사...로 쓴건데 사실상 짧은 글입니다.\n전력을 하신 모든 분들 수고하셨습니다.\nhttps://t.co/xKSypoor1h",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일_전력",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scaryludin",
+					"name": "밀푀유 루딘",
+					"id": 696693991895625700,
+					"id_str": "696693991895625728",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xKSypoor1h",
+					"expanded_url": "http://posty.pe/bqjbjp",
+					"display_url": "posty.pe/bqjbjp",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5431,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 13:37:36 +0000 2017",
+			"id": 896365051967230000,
+			"id_str": "896365051967229952",
+			"text": "#혐스일_전력 주제는 식사...로 쓴건데 사실상 짧은 글입니다.\n전력을 하신 모든 분들 수고하셨습니다.\nhttps://t.co/xKSypoor1h",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일_전력",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xKSypoor1h",
+						"expanded_url": "http://posty.pe/bqjbjp",
+						"display_url": "posty.pe/bqjbjp",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 696693991895625700,
+				"id_str": "696693991895625728",
+				"name": "밀푀유 루딘",
+				"screen_name": "scaryludin",
+				"location": "장관님 스토킹중 ㄴ(ㅇ×ㅇ)ㄱ))",
+				"description": "현재버닝중 : 혐스일, 히로아카, 빌러너스, BATIM, 언더테일\ni love grotesque\n대부분 자작캐들만 그림\n인생이 엿같아요[※가끔 있는 우울트 주의※]",
+				"url": "https://t.co/q741uhrmEx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q741uhrmEx",
+								"expanded_url": "http://naver.me/GQoDbvTr",
+								"display_url": "naver.me/GQoDbvTr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86,
+				"friends_count": 379,
+				"listed_count": 0,
+				"created_at": "Mon Feb 08 13:56:06 +0000 2016",
+				"favourites_count": 41092,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1094,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/891333306540621824/f1rEgH7f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/891333306540621824/f1rEgH7f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/696693991895625728/1500862499",
+				"profile_link_color": "030218",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Aug 12 13:06:26 +0000 2017",
 		"id": 896357208580997100,
 		"id_str": "896357208580997120",
