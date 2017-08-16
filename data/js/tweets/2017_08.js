@@ -1,6 +1,724 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 17:17:31 +0000 2017",
+		"id": 897869944422936600,
+		"id_str": "897869944422936576",
+		"text": "RT @gbfkjy: 푸딩 생일이라서 급하게 갈겨온 낙서\n저번에 썰 푼 고통스럽게 죽어가는 장관님 https://t.co/25aBWTozHD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gbfkjy",
+					"name": "✣범✣",
+					"id": 882827038352175100,
+					"id_str": "882827038352175105",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 897850125912899600,
+					"id_str": "897850125912899584",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DHXN7riUAAAvMDz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHXN7riUAAAvMDz.jpg",
+					"url": "https://t.co/25aBWTozHD",
+					"display_url": "pic.twitter.com/25aBWTozHD",
+					"expanded_url": "https://twitter.com/gbfkjy/status/897850306960138244/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897850306960138200,
+					"source_status_id_str": "897850306960138244",
+					"source_user_id": 882827038352175100,
+					"source_user_id_str": "882827038352175105"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897850125912899600,
+					"id_str": "897850125912899584",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DHXN7riUAAAvMDz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHXN7riUAAAvMDz.jpg",
+					"url": "https://t.co/25aBWTozHD",
+					"display_url": "pic.twitter.com/25aBWTozHD",
+					"expanded_url": "https://twitter.com/gbfkjy/status/897850306960138244/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897850306960138200,
+					"source_status_id_str": "897850306960138244",
+					"source_user_id": 882827038352175100,
+					"source_user_id_str": "882827038352175105"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5558,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 15:59:29 +0000 2017",
+			"id": 897850306960138200,
+			"id_str": "897850306960138244",
+			"text": "푸딩 생일이라서 급하게 갈겨온 낙서\n저번에 썰 푼 고통스럽게 죽어가는 장관님 https://t.co/25aBWTozHD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 897850125912899600,
+						"id_str": "897850125912899584",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DHXN7riUAAAvMDz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHXN7riUAAAvMDz.jpg",
+						"url": "https://t.co/25aBWTozHD",
+						"display_url": "pic.twitter.com/25aBWTozHD",
+						"expanded_url": "https://twitter.com/gbfkjy/status/897850306960138244/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897850125912899600,
+						"id_str": "897850125912899584",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DHXN7riUAAAvMDz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHXN7riUAAAvMDz.jpg",
+						"url": "https://t.co/25aBWTozHD",
+						"display_url": "pic.twitter.com/25aBWTozHD",
+						"expanded_url": "https://twitter.com/gbfkjy/status/897850306960138244/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 882827038352175100,
+				"id_str": "882827038352175105",
+				"name": "✣범✣",
+				"screen_name": "gbfkjy",
+				"location": "장관님 집무실 천장 구석",
+				"description": "잡덕/ 성인/ 그림러/ 지금은 혐스일 버닝중/ FUB FREE/ 꾸금계는 @gbfkjy19/ cp화 백업계 @CP_A_TB",
+				"url": "https://t.co/xW3D4SAiP6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xW3D4SAiP6",
+								"expanded_url": "https://ask.fm/wish4you34",
+								"display_url": "ask.fm/wish4you34",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90,
+				"friends_count": 20,
+				"listed_count": 1,
+				"created_at": "Thu Jul 06 05:02:22 +0000 2017",
+				"favourites_count": 5294,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4351,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897561207917367297/GT5O7rtJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897561207917367297/GT5O7rtJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/882827038352175105/1502778826",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 16 17:15:53 +0000 2017",
+		"id": 897869533402116100,
+		"id_str": "897869533402116097",
+		"text": "RT @munkki12345: #푸딩_생일_축하해\n#혐스일\n간단하게 얼굴만 ㅇㅅㅇ https://t.co/YVEGqpZcjA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "푸딩_생일_축하해",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"text": "혐스일",
+					"indices": [
+						28,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "munkki12345",
+					"name": "🍒삥뺭🍒",
+					"id": 3694185312,
+					"id_str": "3694185312",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 897848311876468700,
+					"id_str": "897848311876468736",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DHXMSFuUwAAeiB5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHXMSFuUwAAeiB5.jpg",
+					"url": "https://t.co/YVEGqpZcjA",
+					"display_url": "pic.twitter.com/YVEGqpZcjA",
+					"expanded_url": "https://twitter.com/munkki12345/status/897848380029714432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897848380029714400,
+					"source_status_id_str": "897848380029714432",
+					"source_user_id": 3694185312,
+					"source_user_id_str": "3694185312"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897848311876468700,
+					"id_str": "897848311876468736",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DHXMSFuUwAAeiB5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHXMSFuUwAAeiB5.jpg",
+					"url": "https://t.co/YVEGqpZcjA",
+					"display_url": "pic.twitter.com/YVEGqpZcjA",
+					"expanded_url": "https://twitter.com/munkki12345/status/897848380029714432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897848380029714400,
+					"source_status_id_str": "897848380029714432",
+					"source_user_id": 3694185312,
+					"source_user_id_str": "3694185312"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5558,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 15:51:49 +0000 2017",
+			"id": 897848380029714400,
+			"id_str": "897848380029714432",
+			"text": "#푸딩_생일_축하해\n#혐스일\n간단하게 얼굴만 ㅇㅅㅇ https://t.co/YVEGqpZcjA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "푸딩_생일_축하해",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "혐스일",
+						"indices": [
+							11,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 897848311876468700,
+						"id_str": "897848311876468736",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DHXMSFuUwAAeiB5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHXMSFuUwAAeiB5.jpg",
+						"url": "https://t.co/YVEGqpZcjA",
+						"display_url": "pic.twitter.com/YVEGqpZcjA",
+						"expanded_url": "https://twitter.com/munkki12345/status/897848380029714432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 479,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1444,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 846,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897848311876468700,
+						"id_str": "897848311876468736",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DHXMSFuUwAAeiB5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHXMSFuUwAAeiB5.jpg",
+						"url": "https://t.co/YVEGqpZcjA",
+						"display_url": "pic.twitter.com/YVEGqpZcjA",
+						"expanded_url": "https://twitter.com/munkki12345/status/897848380029714432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 479,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1444,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 846,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3694185312,
+				"id_str": "3694185312",
+				"name": "🍒삥뺭🍒",
+				"screen_name": "munkki12345",
+				"location": "마리죠아 / 장례히망 천룡인",
+				"description": "팔로언팔프리/\n☆☆☆일상트많음☆☆☆/ \n원피스 전개 궁예글 좀 있음 + 원작 혐스일 둘다파용/ \n심심한마왕 월야환담 환성/비덕팔로x /",
+				"url": "https://t.co/ghtzyqMXgC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ghtzyqMXgC",
+								"expanded_url": "http://munkki12345.wix.com/dbsp",
+								"display_url": "munkki12345.wix.com/dbsp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89,
+				"friends_count": 91,
+				"listed_count": 0,
+				"created_at": "Sat Sep 26 16:15:45 +0000 2015",
+				"favourites_count": 14293,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24684,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848188415732363264/ybghSst5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848188415732363264/ybghSst5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3694185312/1460015976",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Aug 16 17:14:35 +0000 2017",
 		"id": 897869208142336000,
 		"id_str": "897869208142336000",
