@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 03 01:35:16 +0000 2017",
+		"id": 904155804063809500,
+		"id_str": "904155804063809536",
+		"text": "RT @danada0309: 빙산x스팬담\n둘이 사귀고 나서 스팬담 방에서 데이트중 https://t.co/izWiZLFhdh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danada0309",
+					"name": "낙지",
+					"id": 818031193975230500,
+					"id_str": "818031193975230468",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 874642676963921900,
+					"id_str": "874642676963921921",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DCNa4XHU0AE4V8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCNa4XHU0AE4V8y.jpg",
+					"url": "https://t.co/izWiZLFhdh",
+					"display_url": "pic.twitter.com/izWiZLFhdh",
+					"expanded_url": "https://twitter.com/danada0309/status/874643168230219780/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 891,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 891,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 874643168230219800,
+					"source_status_id_str": "874643168230219780",
+					"source_user_id": 818031193975230500,
+					"source_user_id_str": "818031193975230468"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 874642676963921900,
+					"id_str": "874642676963921921",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DCNa4XHU0AE4V8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCNa4XHU0AE4V8y.jpg",
+					"url": "https://t.co/izWiZLFhdh",
+					"display_url": "pic.twitter.com/izWiZLFhdh",
+					"expanded_url": "https://twitter.com/danada0309/status/874643168230219780/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 891,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 891,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 874643168230219800,
+					"source_status_id_str": "874643168230219780",
+					"source_user_id": 818031193975230500,
+					"source_user_id_str": "818031193975230468"
+				},
+				{
+					"id": 874642688741527600,
+					"id_str": "874642688741527552",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DCNa5C_U0AA9z8t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCNa5C_U0AA9z8t.jpg",
+					"url": "https://t.co/izWiZLFhdh",
+					"display_url": "pic.twitter.com/izWiZLFhdh",
+					"expanded_url": "https://twitter.com/danada0309/status/874643168230219780/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 891,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 891,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 874643168230219800,
+					"source_status_id_str": "874643168230219780",
+					"source_user_id": 818031193975230500,
+					"source_user_id_str": "818031193975230468"
+				},
+				{
+					"id": 874642709910175700,
+					"id_str": "874642709910175744",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DCNa6R2UwAAnbt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCNa6R2UwAAnbt2.jpg",
+					"url": "https://t.co/izWiZLFhdh",
+					"display_url": "pic.twitter.com/izWiZLFhdh",
+					"expanded_url": "https://twitter.com/danada0309/status/874643168230219780/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 891,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 891,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874643168230219800,
+					"source_status_id_str": "874643168230219780",
+					"source_user_id": 818031193975230500,
+					"source_user_id_str": "818031193975230468"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 515,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5861,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 13 15:02:36 +0000 2017",
+			"id": 874643168230219800,
+			"id_str": "874643168230219780",
+			"text": "빙산x스팬담\n둘이 사귀고 나서 스팬담 방에서 데이트중 https://t.co/izWiZLFhdh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 874642676963921900,
+						"id_str": "874642676963921921",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DCNa4XHU0AE4V8y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCNa4XHU0AE4V8y.jpg",
+						"url": "https://t.co/izWiZLFhdh",
+						"display_url": "pic.twitter.com/izWiZLFhdh",
+						"expanded_url": "https://twitter.com/danada0309/status/874643168230219780/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 891,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 891,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874642676963921900,
+						"id_str": "874642676963921921",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DCNa4XHU0AE4V8y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCNa4XHU0AE4V8y.jpg",
+						"url": "https://t.co/izWiZLFhdh",
+						"display_url": "pic.twitter.com/izWiZLFhdh",
+						"expanded_url": "https://twitter.com/danada0309/status/874643168230219780/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 891,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 891,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 874642688741527600,
+						"id_str": "874642688741527552",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DCNa5C_U0AA9z8t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCNa5C_U0AA9z8t.jpg",
+						"url": "https://t.co/izWiZLFhdh",
+						"display_url": "pic.twitter.com/izWiZLFhdh",
+						"expanded_url": "https://twitter.com/danada0309/status/874643168230219780/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 891,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 891,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 874642709910175700,
+						"id_str": "874642709910175744",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DCNa6R2UwAAnbt2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCNa6R2UwAAnbt2.jpg",
+						"url": "https://t.co/izWiZLFhdh",
+						"display_url": "pic.twitter.com/izWiZLFhdh",
+						"expanded_url": "https://twitter.com/danada0309/status/874643168230219780/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 891,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 891,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 818031193975230500,
+				"id_str": "818031193975230468",
+				"name": "낙지",
+				"screen_name": "danada0309",
+				"location": "",
+				"description": "그림/영상작업/ 거르는취향 없으나 선호하는 취향은 있음 / 성인용 뒷계 @danada03099 교류 있고 성인인 분들만 받음",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1485,
+				"friends_count": 33,
+				"listed_count": 7,
+				"created_at": "Sun Jan 08 09:46:49 +0000 2017",
+				"favourites_count": 4530,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1582,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895323113935720448/1X92tsl8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895323113935720448/1X92tsl8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/818031193975230468/1483998332",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 285,
+			"favorite_count": 370,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 285,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Sep 02 14:09:33 +0000 2017",
 		"id": 903983237764022300,
 		"id_str": "903983237764022273",
