@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 05 08:41:56 +0000 2017",
+		"id": 904987954304581600,
+		"id_str": "904987954304581632",
+		"text": "RT @behindxa: 여러분 저 오비완 아나킨 아소카 향수만들었음ㅠㅠㅜ 색 너무 이쁘지않습니까?? 그냥 라세색으로 했는데 ㄹㅇ 탁월한 선택이었고...(주르륵 https://t.co/rOzMQWGXhb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "behindxa",
+					"name": "이 구역 아소카악개 ☞BEHIND",
+					"id": 815226782307655700,
+					"id_str": "815226782307655681",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 904978112466657300,
+					"id_str": "904978112466657280",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DI8gzGsUIAAZsO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DI8gzGsUIAAZsO-.jpg",
+					"url": "https://t.co/rOzMQWGXhb",
+					"display_url": "pic.twitter.com/rOzMQWGXhb",
+					"expanded_url": "https://twitter.com/behindxa/status/904978149166874624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 651,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 651,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904978149166874600,
+					"source_status_id_str": "904978149166874624",
+					"source_user_id": 815226782307655700,
+					"source_user_id_str": "815226782307655681"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 904978112466657300,
+					"id_str": "904978112466657280",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DI8gzGsUIAAZsO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DI8gzGsUIAAZsO-.jpg",
+					"url": "https://t.co/rOzMQWGXhb",
+					"display_url": "pic.twitter.com/rOzMQWGXhb",
+					"expanded_url": "https://twitter.com/behindxa/status/904978149166874624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 651,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 651,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904978149166874600,
+					"source_status_id_str": "904978149166874624",
+					"source_user_id": 815226782307655700,
+					"source_user_id_str": "815226782307655681"
+				},
+				{
+					"id": 904978131429146600,
+					"id_str": "904978131429146625",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DI8g0NVUwAEyZ_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DI8g0NVUwAEyZ_B.jpg",
+					"url": "https://t.co/rOzMQWGXhb",
+					"display_url": "pic.twitter.com/rOzMQWGXhb",
+					"expanded_url": "https://twitter.com/behindxa/status/904978149166874624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904978149166874600,
+					"source_status_id_str": "904978149166874624",
+					"source_user_id": 815226782307655700,
+					"source_user_id_str": "815226782307655681"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 14,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5909,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 05 08:02:59 +0000 2017",
+			"id": 904978149166874600,
+			"id_str": "904978149166874624",
+			"text": "여러분 저 오비완 아나킨 아소카 향수만들었음ㅠㅠㅜ 색 너무 이쁘지않습니까?? 그냥 라세색으로 했는데 ㄹㅇ 탁월한 선택이었고...(주르륵 https://t.co/rOzMQWGXhb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 904978112466657300,
+						"id_str": "904978112466657280",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DI8gzGsUIAAZsO-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DI8gzGsUIAAZsO-.jpg",
+						"url": "https://t.co/rOzMQWGXhb",
+						"display_url": "pic.twitter.com/rOzMQWGXhb",
+						"expanded_url": "https://twitter.com/behindxa/status/904978149166874624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 651,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 651,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 432,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 904978112466657300,
+						"id_str": "904978112466657280",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DI8gzGsUIAAZsO-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DI8gzGsUIAAZsO-.jpg",
+						"url": "https://t.co/rOzMQWGXhb",
+						"display_url": "pic.twitter.com/rOzMQWGXhb",
+						"expanded_url": "https://twitter.com/behindxa/status/904978149166874624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 651,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 651,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 432,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 904978131429146600,
+						"id_str": "904978131429146625",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DI8g0NVUwAEyZ_B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DI8g0NVUwAEyZ_B.jpg",
+						"url": "https://t.co/rOzMQWGXhb",
+						"display_url": "pic.twitter.com/rOzMQWGXhb",
+						"expanded_url": "https://twitter.com/behindxa/status/904978149166874624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 815226782307655700,
+				"id_str": "815226782307655681",
+				"name": "이 구역 아소카악개 ☞BEHIND",
+				"screen_name": "behindxa",
+				"location": "제다이템플",
+				"description": "클론전쟁 다봤고 아소카찾으러 레벨즈여행떠날것입니다. 아직 클전도 안본당신 반성하시고 어서 u+비디오포털 정액제가입하세요(광고아님)",
+				"url": "https://t.co/l7KYblZduD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l7KYblZduD",
+								"expanded_url": "http://ask.fm/behindxa",
+								"display_url": "ask.fm/behindxa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1172,
+				"friends_count": 31,
+				"listed_count": 7,
+				"created_at": "Sat Dec 31 16:03:05 +0000 2016",
+				"favourites_count": 3540,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10484,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/904047157556068352/OMVRh1CE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/904047157556068352/OMVRh1CE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/815226782307655681/1504376801",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Sep 05 07:49:36 +0000 2017",
 		"id": 904974783904759800,
 		"id_str": "904974783904759808",
