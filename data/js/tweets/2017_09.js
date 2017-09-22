@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 22 06:13:50 +0000 2017",
+		"id": 911111277249929200,
+		"id_str": "911111277249929217",
+		"text": "RT @spandamcookie: [RT😍]루치스파(낙지,아무개)+햄장님(낙지) 아크릴스탠드 수량조사받습니다..!\nhttps://t.co/H7KMepXwoM https://t.co/q5JdQh5pk7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spandamcookie",
+					"name": "아무개",
+					"id": 2979487302,
+					"id_str": "2979487302",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H7KMepXwoM",
+					"expanded_url": "http://naver.me/xwUKhvU9",
+					"display_url": "naver.me/xwUKhvU9",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 911087642413899800,
+					"id_str": "911087642413899777",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DKTVYjVUIAECjY9.png",
+					"media_url_https": "https://pbs.twimg.com/media/DKTVYjVUIAECjY9.png",
+					"url": "https://t.co/q5JdQh5pk7",
+					"display_url": "pic.twitter.com/q5JdQh5pk7",
+					"expanded_url": "https://twitter.com/spandamcookie/status/911088192060768261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 710,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 710,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911088192060768300,
+					"source_status_id_str": "911088192060768261",
+					"source_user_id": 2979487302,
+					"source_user_id_str": "2979487302"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 911087642413899800,
+					"id_str": "911087642413899777",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DKTVYjVUIAECjY9.png",
+					"media_url_https": "https://pbs.twimg.com/media/DKTVYjVUIAECjY9.png",
+					"url": "https://t.co/q5JdQh5pk7",
+					"display_url": "pic.twitter.com/q5JdQh5pk7",
+					"expanded_url": "https://twitter.com/spandamcookie/status/911088192060768261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 710,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 710,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911088192060768300,
+					"source_status_id_str": "911088192060768261",
+					"source_user_id": 2979487302,
+					"source_user_id_str": "2979487302"
+				},
+				{
+					"id": 911087652639612900,
+					"id_str": "911087652639612929",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DKTVZJbUIAEK7zL.png",
+					"media_url_https": "https://pbs.twimg.com/media/DKTVZJbUIAEK7zL.png",
+					"url": "https://t.co/q5JdQh5pk7",
+					"display_url": "pic.twitter.com/q5JdQh5pk7",
+					"expanded_url": "https://twitter.com/spandamcookie/status/911088192060768261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 756,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 756,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911088192060768300,
+					"source_status_id_str": "911088192060768261",
+					"source_user_id": 2979487302,
+					"source_user_id_str": "2979487302"
+				},
+				{
+					"id": 911087661921665000,
+					"id_str": "911087661921665024",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DKTVZsAVAAA2ZQO.png",
+					"media_url_https": "https://pbs.twimg.com/media/DKTVZsAVAAA2ZQO.png",
+					"url": "https://t.co/q5JdQh5pk7",
+					"display_url": "pic.twitter.com/q5JdQh5pk7",
+					"expanded_url": "https://twitter.com/spandamcookie/status/911088192060768261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 646,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 646,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911088192060768300,
+					"source_status_id_str": "911088192060768261",
+					"source_user_id": 2979487302,
+					"source_user_id_str": "2979487302"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 523,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5925,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 22 04:42:06 +0000 2017",
+			"id": 911088192060768300,
+			"id_str": "911088192060768261",
+			"text": "[RT😍]루치스파(낙지,아무개)+햄장님(낙지) 아크릴스탠드 수량조사받습니다..!\nhttps://t.co/H7KMepXwoM https://t.co/q5JdQh5pk7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/H7KMepXwoM",
+						"expanded_url": "http://naver.me/xwUKhvU9",
+						"display_url": "naver.me/xwUKhvU9",
+						"indices": [
+							45,
+							68
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 911087642413899800,
+						"id_str": "911087642413899777",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DKTVYjVUIAECjY9.png",
+						"media_url_https": "https://pbs.twimg.com/media/DKTVYjVUIAECjY9.png",
+						"url": "https://t.co/q5JdQh5pk7",
+						"display_url": "pic.twitter.com/q5JdQh5pk7",
+						"expanded_url": "https://twitter.com/spandamcookie/status/911088192060768261/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 710,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 710,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 604,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 911087642413899800,
+						"id_str": "911087642413899777",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DKTVYjVUIAECjY9.png",
+						"media_url_https": "https://pbs.twimg.com/media/DKTVYjVUIAECjY9.png",
+						"url": "https://t.co/q5JdQh5pk7",
+						"display_url": "pic.twitter.com/q5JdQh5pk7",
+						"expanded_url": "https://twitter.com/spandamcookie/status/911088192060768261/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 710,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 710,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 604,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 911087652639612900,
+						"id_str": "911087652639612929",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DKTVZJbUIAEK7zL.png",
+						"media_url_https": "https://pbs.twimg.com/media/DKTVZJbUIAEK7zL.png",
+						"url": "https://t.co/q5JdQh5pk7",
+						"display_url": "pic.twitter.com/q5JdQh5pk7",
+						"expanded_url": "https://twitter.com/spandamcookie/status/911088192060768261/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 450,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 756,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 756,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 911087661921665000,
+						"id_str": "911087661921665024",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DKTVZsAVAAA2ZQO.png",
+						"media_url_https": "https://pbs.twimg.com/media/DKTVZsAVAAA2ZQO.png",
+						"url": "https://t.co/q5JdQh5pk7",
+						"display_url": "pic.twitter.com/q5JdQh5pk7",
+						"expanded_url": "https://twitter.com/spandamcookie/status/911088192060768261/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 646,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 646,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 646,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2979487302,
+				"id_str": "2979487302",
+				"name": "아무개",
+				"screen_name": "spandamcookie",
+				"location": "",
+				"description": "원피스+혐스일 스팬담른/우삼총",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 316,
+				"friends_count": 20,
+				"listed_count": 0,
+				"created_at": "Tue Jan 13 12:18:06 +0000 2015",
+				"favourites_count": 1936,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2397,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895649623699668994/Eiif7DC5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895649623699668994/Eiif7DC5_normal.jpg",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Sep 22 01:20:01 +0000 2017",
 		"id": 911037334535016400,
 		"id_str": "911037334535016448",
