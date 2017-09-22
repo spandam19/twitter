@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 22 09:42:36 +0000 2017",
+		"id": 911163813386268700,
+		"id_str": "911163813386268672",
+		"text": "RT @kkamong03: #혐스일\n\n최애의 어린 시절을 만났을 때의 심정을 구하시오. https://t.co/UsOR5Bh7Cc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일",
+					"indices": [
+						15,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kkamong03",
+					"name": "카몽",
+					"id": 907876468637671400,
+					"id_str": "907876468637671424",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 910932653930463200,
+					"id_str": "910932653930463232",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DKRIbCPUQAAs7xW.png",
+					"media_url_https": "https://pbs.twimg.com/media/DKRIbCPUQAAs7xW.png",
+					"url": "https://t.co/UsOR5Bh7Cc",
+					"display_url": "pic.twitter.com/UsOR5Bh7Cc",
+					"expanded_url": "https://twitter.com/kkamong03/status/910932940107874304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 910932940107874300,
+					"source_status_id_str": "910932940107874304",
+					"source_user_id": 907876468637671400,
+					"source_user_id_str": "907876468637671424"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 910932653930463200,
+					"id_str": "910932653930463232",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DKRIbCPUQAAs7xW.png",
+					"media_url_https": "https://pbs.twimg.com/media/DKRIbCPUQAAs7xW.png",
+					"url": "https://t.co/UsOR5Bh7Cc",
+					"display_url": "pic.twitter.com/UsOR5Bh7Cc",
+					"expanded_url": "https://twitter.com/kkamong03/status/910932940107874304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 910932940107874300,
+					"source_status_id_str": "910932940107874304",
+					"source_user_id": 907876468637671400,
+					"source_user_id_str": "907876468637671424"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 523,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5928,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 21 18:25:11 +0000 2017",
+			"id": 910932940107874300,
+			"id_str": "910932940107874304",
+			"text": "#혐스일\n\n최애의 어린 시절을 만났을 때의 심정을 구하시오. https://t.co/UsOR5Bh7Cc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일",
+						"indices": [
+							0,
+							4
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 910932653930463200,
+						"id_str": "910932653930463232",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DKRIbCPUQAAs7xW.png",
+						"media_url_https": "https://pbs.twimg.com/media/DKRIbCPUQAAs7xW.png",
+						"url": "https://t.co/UsOR5Bh7Cc",
+						"display_url": "pic.twitter.com/UsOR5Bh7Cc",
+						"expanded_url": "https://twitter.com/kkamong03/status/910932940107874304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 910932653930463200,
+						"id_str": "910932653930463232",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DKRIbCPUQAAs7xW.png",
+						"media_url_https": "https://pbs.twimg.com/media/DKRIbCPUQAAs7xW.png",
+						"url": "https://t.co/UsOR5Bh7Cc",
+						"display_url": "pic.twitter.com/UsOR5Bh7Cc",
+						"expanded_url": "https://twitter.com/kkamong03/status/910932940107874304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 909893185781899300,
+			"in_reply_to_status_id_str": "909893185781899264",
+			"in_reply_to_user_id": 907876468637671400,
+			"in_reply_to_user_id_str": "907876468637671424",
+			"in_reply_to_screen_name": "kkamong03",
+			"user": {
+				"id": 907876468637671400,
+				"id_str": "907876468637671424",
+				"name": "카몽",
+				"screen_name": "kkamong03",
+				"location": "",
+				"description": "FUB Free / 성인 / 덕질 및 소비 및 연성하는 계정 / 그림 및 썰 / 현재 혐스일 버닝 중 / 맞팔 멘션 주시면 버선발로 맞팔하러 갑니다. 😊",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8,
+				"friends_count": 5,
+				"listed_count": 0,
+				"created_at": "Wed Sep 13 07:59:52 +0000 2017",
+				"favourites_count": 5,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910938365729452033/GRb7kTBw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910938365729452033/GRb7kTBw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/907876468637671424/1506018165",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Sep 22 08:54:20 +0000 2017",
 		"id": 911151665679556600,
 		"id_str": "911151665679556608",
