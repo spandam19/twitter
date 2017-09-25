@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 25 18:14:11 +0000 2017",
+		"id": 912379723736531000,
+		"id_str": "912379723736530944",
+		"text": "RT @sinawi_HSI: 푸딩장관! 아 세상에 저 차분한 머리 진짜 못그려서 푸딩ㅇ 망했네요 https://t.co/ztpJghfJgW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sinawi_HSI",
+					"name": "엽서마감하세요 나위님",
+					"id": 905632183259349000,
+					"id_str": "905632183259348992",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 911945473207832600,
+					"id_str": "911945473207832576",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DKfhk4EUEAACz6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKfhk4EUEAACz6B.jpg",
+					"url": "https://t.co/ztpJghfJgW",
+					"display_url": "pic.twitter.com/ztpJghfJgW",
+					"expanded_url": "https://twitter.com/sinawi_HSI/status/911945551813287936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 935,
+							"h": 792,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 935,
+							"h": 792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911945551813288000,
+					"source_status_id_str": "911945551813287936",
+					"source_user_id": 905632183259349000,
+					"source_user_id_str": "905632183259348992"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 911945473207832600,
+					"id_str": "911945473207832576",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DKfhk4EUEAACz6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKfhk4EUEAACz6B.jpg",
+					"url": "https://t.co/ztpJghfJgW",
+					"display_url": "pic.twitter.com/ztpJghfJgW",
+					"expanded_url": "https://twitter.com/sinawi_HSI/status/911945551813287936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 935,
+							"h": 792,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 935,
+							"h": 792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911945551813288000,
+					"source_status_id_str": "911945551813287936",
+					"source_user_id": 905632183259349000,
+					"source_user_id_str": "905632183259348992"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 525,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5964,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 24 13:28:57 +0000 2017",
+			"id": 911945551813288000,
+			"id_str": "911945551813287936",
+			"text": "푸딩장관! 아 세상에 저 차분한 머리 진짜 못그려서 푸딩ㅇ 망했네요 https://t.co/ztpJghfJgW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 911945473207832600,
+						"id_str": "911945473207832576",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DKfhk4EUEAACz6B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKfhk4EUEAACz6B.jpg",
+						"url": "https://t.co/ztpJghfJgW",
+						"display_url": "pic.twitter.com/ztpJghfJgW",
+						"expanded_url": "https://twitter.com/sinawi_HSI/status/911945551813287936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 935,
+								"h": 792,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 935,
+								"h": 792,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 911945473207832600,
+						"id_str": "911945473207832576",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DKfhk4EUEAACz6B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKfhk4EUEAACz6B.jpg",
+						"url": "https://t.co/ztpJghfJgW",
+						"display_url": "pic.twitter.com/ztpJghfJgW",
+						"expanded_url": "https://twitter.com/sinawi_HSI/status/911945551813287936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 935,
+								"h": 792,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 935,
+								"h": 792,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 905632183259349000,
+				"id_str": "905632183259348992",
+				"name": "엽서마감하세요 나위님",
+				"screen_name": "sinawi_HSI",
+				"location": "지뢰 없음!",
+				"description": "시나위/sinawi (@ zkfkxk12) 혐스일계 // FUB free // 교류를 잘 못합니다 말재주가 없어서(+쫄보) 그래도 괜찮으시다면 말 걸어주세요😂",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35,
+				"friends_count": 35,
+				"listed_count": 0,
+				"created_at": "Thu Sep 07 03:21:53 +0000 2017",
+				"favourites_count": 147,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 224,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911594653782204416/CQh__8ov_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911594653782204416/CQh__8ov_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/905632183259348992/1504754810",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Sep 25 15:36:16 +0000 2017",
 		"id": 912339982441791500,
 		"id_str": "912339982441791488",
