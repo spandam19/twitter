@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 03 15:15:39 +0000 2017",
+		"id": 915233893598470100,
+		"id_str": "915233893598470144",
+		"text": "RT @puo_Harang: 배경그리고 올리고시ㅠ었는데 절대 손 안대는 나를 발견했습니다...\n\n#혐스일 https://t.co/b4SypB9iKy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일",
+					"indices": [
+						54,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "puo_Harang",
+					"name": "머리 깐 장관님이 취향인 하랑",
+					"id": 722519551297003500,
+					"id_str": "722519551297003520",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 915144485427855400,
+					"id_str": "915144485427855361",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DLM_D5QVwAEpAqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLM_D5QVwAEpAqL.jpg",
+					"url": "https://t.co/b4SypB9iKy",
+					"display_url": "pic.twitter.com/b4SypB9iKy",
+					"expanded_url": "https://twitter.com/puo_Harang/status/915144493522837504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1515,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915144493522837500,
+					"source_status_id_str": "915144493522837504",
+					"source_user_id": 722519551297003500,
+					"source_user_id_str": "722519551297003520"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 915144485427855400,
+					"id_str": "915144485427855361",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DLM_D5QVwAEpAqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLM_D5QVwAEpAqL.jpg",
+					"url": "https://t.co/b4SypB9iKy",
+					"display_url": "pic.twitter.com/b4SypB9iKy",
+					"expanded_url": "https://twitter.com/puo_Harang/status/915144493522837504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1515,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915144493522837500,
+					"source_status_id_str": "915144493522837504",
+					"source_user_id": 722519551297003500,
+					"source_user_id_str": "722519551297003520"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 528,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 16,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5950,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 03 09:20:24 +0000 2017",
+			"id": 915144493522837500,
+			"id_str": "915144493522837504",
+			"text": "배경그리고 올리고시ㅠ었는데 절대 손 안대는 나를 발견했습니다...\n\n#혐스일 https://t.co/b4SypB9iKy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일",
+						"indices": [
+							38,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 915144485427855400,
+						"id_str": "915144485427855361",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DLM_D5QVwAEpAqL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLM_D5QVwAEpAqL.jpg",
+						"url": "https://t.co/b4SypB9iKy",
+						"display_url": "pic.twitter.com/b4SypB9iKy",
+						"expanded_url": "https://twitter.com/puo_Harang/status/915144493522837504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 811,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1515,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 915144485427855400,
+						"id_str": "915144485427855361",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DLM_D5QVwAEpAqL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLM_D5QVwAEpAqL.jpg",
+						"url": "https://t.co/b4SypB9iKy",
+						"display_url": "pic.twitter.com/b4SypB9iKy",
+						"expanded_url": "https://twitter.com/puo_Harang/status/915144493522837504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 811,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1515,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 722519551297003500,
+				"id_str": "722519551297003520",
+				"name": "머리 깐 장관님이 취향인 하랑",
+				"screen_name": "puo_Harang",
+				"location": "",
+				"description": "현재 혐스일 위주계, 성인 / 꾸금계:@Sug_Harang (맞팔+교류 있으신 성인 트친님들❤️) 인장은 호쿠(미화한하랑)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51,
+				"friends_count": 147,
+				"listed_count": 1,
+				"created_at": "Tue Apr 19 20:17:39 +0000 2016",
+				"favourites_count": 6023,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3333,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915163099899904000/_Kw7W9w5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915163099899904000/_Kw7W9w5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/722519551297003520/1501306303",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Oct 03 04:26:35 +0000 2017",
 		"id": 915070551579697200,
 		"id_str": "915070551579697154",
