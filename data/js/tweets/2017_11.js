@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 11 16:59:41 +0000 2017",
+		"id": 929393201244291100,
+		"id_str": "929393201244291072",
+		"text": "RT @pinktail_ass: 이 사진을 보기 전으로 되돌아갈 수 없다 https://t.co/5FYV8rvOAf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pinktail_ass",
+					"name": "핑테",
+					"id": 725321838,
+					"id_str": "725321838",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 928871358192279600,
+					"id_str": "928871358192279552",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DOQDlDMV4AA1dqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOQDlDMV4AA1dqf.jpg",
+					"url": "https://t.co/5FYV8rvOAf",
+					"display_url": "pic.twitter.com/5FYV8rvOAf",
+					"expanded_url": "https://twitter.com/pinktail_ass/status/928871366446563328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 675,
+							"h": 393,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 393,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928871366446563300,
+					"source_status_id_str": "928871366446563328",
+					"source_user_id": 725321838,
+					"source_user_id_str": "725321838"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 928871358192279600,
+					"id_str": "928871358192279552",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DOQDlDMV4AA1dqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOQDlDMV4AA1dqf.jpg",
+					"url": "https://t.co/5FYV8rvOAf",
+					"display_url": "pic.twitter.com/5FYV8rvOAf",
+					"expanded_url": "https://twitter.com/pinktail_ass/status/928871366446563328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 675,
+							"h": 393,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 393,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928871366446563300,
+					"source_status_id_str": "928871366446563328",
+					"source_user_id": 725321838,
+					"source_user_id_str": "725321838"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 542,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6102,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 10 06:26:06 +0000 2017",
+			"id": 928871366446563300,
+			"id_str": "928871366446563328",
+			"text": "이 사진을 보기 전으로 되돌아갈 수 없다 https://t.co/5FYV8rvOAf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 928871358192279600,
+						"id_str": "928871358192279552",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DOQDlDMV4AA1dqf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOQDlDMV4AA1dqf.jpg",
+						"url": "https://t.co/5FYV8rvOAf",
+						"display_url": "pic.twitter.com/5FYV8rvOAf",
+						"expanded_url": "https://twitter.com/pinktail_ass/status/928871366446563328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 675,
+								"h": 393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 393,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 675,
+								"h": 393,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928871358192279600,
+						"id_str": "928871358192279552",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DOQDlDMV4AA1dqf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOQDlDMV4AA1dqf.jpg",
+						"url": "https://t.co/5FYV8rvOAf",
+						"display_url": "pic.twitter.com/5FYV8rvOAf",
+						"expanded_url": "https://twitter.com/pinktail_ass/status/928871366446563328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 675,
+								"h": 393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 393,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 675,
+								"h": 393,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 725321838,
+				"id_str": "725321838",
+				"name": "핑테",
+				"screen_name": "pinktail_ass",
+				"location": "3333-03-2590048 카카오뱅크",
+				"description": "1990🦄/G/Feminist/LOΛE2기/워마드 제발 꺼져/크고 둥글고 귀엽고 묵직한 미남이 좋습니다 #강동호(백호) #손현우(셔누) #안창림 #하정우 #TeamMilk",
+				"url": "https://t.co/7PXtUCxxjV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7PXtUCxxjV",
+								"expanded_url": "https://ask.fm/pinktail",
+								"display_url": "ask.fm/pinktail",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1624,
+				"friends_count": 559,
+				"listed_count": 10,
+				"created_at": "Mon Jul 30 05:01:05 +0000 2012",
+				"favourites_count": 11868,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 56307,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928975306320261120/updPRhOU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928975306320261120/updPRhOU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/725321838/1508603875",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2959,
+			"favorite_count": 443,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2959,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Nov 11 15:26:21 +0000 2017",
 		"id": 929369715343900700,
 		"id_str": "929369715343900674",
