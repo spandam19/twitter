@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 14 07:41:58 +0000 2017",
+		"id": 930340013086097400,
+		"id_str": "930340013086097408",
+		"text": "RT @metadream_00: 터포키로 이메레스\n\n보좌관즈로 그리려다 왠지 터포키로 채워보고 싶어져서 😙\n오른쪽은 터포키 2p라고 괜히 변명해보기.. https://t.co/A3dif3HxyX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "metadream_00",
+					"name": "드림하는 사슴❄",
+					"id": 736605039532216300,
+					"id_str": "736605039532216320",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 930170225571520500,
+					"id_str": "930170225571520512",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DOig5FPV4AAoE4A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOig5FPV4AAoE4A.jpg",
+					"url": "https://t.co/A3dif3HxyX",
+					"display_url": "pic.twitter.com/A3dif3HxyX",
+					"expanded_url": "https://twitter.com/metadream_00/status/930171483317342208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1944,
+							"h": 972,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930171483317342200,
+					"source_status_id_str": "930171483317342208",
+					"source_user_id": 736605039532216300,
+					"source_user_id_str": "736605039532216320"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 930170225571520500,
+					"id_str": "930170225571520512",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DOig5FPV4AAoE4A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOig5FPV4AAoE4A.jpg",
+					"url": "https://t.co/A3dif3HxyX",
+					"display_url": "pic.twitter.com/A3dif3HxyX",
+					"expanded_url": "https://twitter.com/metadream_00/status/930171483317342208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1944,
+							"h": 972,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930171483317342200,
+					"source_status_id_str": "930171483317342208",
+					"source_user_id": 736605039532216300,
+					"source_user_id_str": "736605039532216320"
+				},
+				{
+					"id": 930170235432288300,
+					"id_str": "930170235432288257",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DOig5p-VQAEcyBv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOig5p-VQAEcyBv.jpg",
+					"url": "https://t.co/A3dif3HxyX",
+					"display_url": "pic.twitter.com/A3dif3HxyX",
+					"expanded_url": "https://twitter.com/metadream_00/status/930171483317342208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930171483317342200,
+					"source_status_id_str": "930171483317342208",
+					"source_user_id": 736605039532216300,
+					"source_user_id_str": "736605039532216320"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6119,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 13 20:32:18 +0000 2017",
+			"id": 930171483317342200,
+			"id_str": "930171483317342208",
+			"text": "터포키로 이메레스\n\n보좌관즈로 그리려다 왠지 터포키로 채워보고 싶어져서 😙\n오른쪽은 터포키 2p라고 괜히 변명해보기.. https://t.co/A3dif3HxyX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 930170225571520500,
+						"id_str": "930170225571520512",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DOig5FPV4AAoE4A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOig5FPV4AAoE4A.jpg",
+						"url": "https://t.co/A3dif3HxyX",
+						"display_url": "pic.twitter.com/A3dif3HxyX",
+						"expanded_url": "https://twitter.com/metadream_00/status/930171483317342208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1944,
+								"h": 972,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 930170225571520500,
+						"id_str": "930170225571520512",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DOig5FPV4AAoE4A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOig5FPV4AAoE4A.jpg",
+						"url": "https://t.co/A3dif3HxyX",
+						"display_url": "pic.twitter.com/A3dif3HxyX",
+						"expanded_url": "https://twitter.com/metadream_00/status/930171483317342208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1944,
+								"h": 972,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 930170235432288300,
+						"id_str": "930170235432288257",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DOig5p-VQAEcyBv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOig5p-VQAEcyBv.jpg",
+						"url": "https://t.co/A3dif3HxyX",
+						"display_url": "pic.twitter.com/A3dif3HxyX",
+						"expanded_url": "https://twitter.com/metadream_00/status/930171483317342208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1400,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 736605039532216300,
+				"id_str": "736605039532216320",
+				"name": "드림하는 사슴❄",
+				"screen_name": "metadream_00",
+				"location": "드라그오빠 옆",
+				"description": "*드림 *패러디 소설\n(((반동결중)))",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88,
+				"friends_count": 16,
+				"listed_count": 0,
+				"created_at": "Sat May 28 17:08:21 +0000 2016",
+				"favourites_count": 1821,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2655,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/841683566509547521/o_lNhRug_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/841683566509547521/o_lNhRug_normal.jpg",
+				"profile_link_color": "84C8B2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Nov 13 19:00:18 +0000 2017",
 		"id": 930148331602329600,
 		"id_str": "930148331602329600",
