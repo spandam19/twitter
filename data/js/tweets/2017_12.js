@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Mon Dec 11 01:03:10 +0000 2017",
+		"id": 940024121731063800,
+		"id_str": "940024121731063808",
+		"text": "RT @hoochoo_hae: #혐스일_전력\n주제 : 눈/담배\n\n새삼 내가 센스 없다는 것을 알았다 ㄸㄹㄹ\n달력을 올해로 착각해버렸긔 ㅇㅅㅇ)9 https://t.co/lvwxu8VwuJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일_전력",
+					"indices": [
+						17,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoochoo_hae",
+					"name": "그릴것이○빌런후추●대박밀린",
+					"id": 898875737637179400,
+					"id_str": "898875737637179396",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 939522772941774800,
+					"id_str": "939522772941774849",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DQna-_OVoAEjrgA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQna-_OVoAEjrgA.jpg",
+					"url": "https://t.co/lvwxu8VwuJ",
+					"display_url": "pic.twitter.com/lvwxu8VwuJ",
+					"expanded_url": "https://twitter.com/hoochoo_hae/status/939522807137910786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1378,
+							"h": 2039,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939522807137910800,
+					"source_status_id_str": "939522807137910786",
+					"source_user_id": 898875737637179400,
+					"source_user_id_str": "898875737637179396"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 939522772941774800,
+					"id_str": "939522772941774849",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DQna-_OVoAEjrgA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQna-_OVoAEjrgA.jpg",
+					"url": "https://t.co/lvwxu8VwuJ",
+					"display_url": "pic.twitter.com/lvwxu8VwuJ",
+					"expanded_url": "https://twitter.com/hoochoo_hae/status/939522807137910786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1378,
+							"h": 2039,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939522807137910800,
+					"source_status_id_str": "939522807137910786",
+					"source_user_id": 898875737637179400,
+					"source_user_id_str": "898875737637179396"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 17,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6196,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 09 15:51:07 +0000 2017",
+			"id": 939522807137910800,
+			"id_str": "939522807137910786",
+			"text": "#혐스일_전력\n주제 : 눈/담배\n\n새삼 내가 센스 없다는 것을 알았다 ㄸㄹㄹ\n달력을 올해로 착각해버렸긔 ㅇㅅㅇ)9 https://t.co/lvwxu8VwuJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일_전력",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 939522772941774800,
+						"id_str": "939522772941774849",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DQna-_OVoAEjrgA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQna-_OVoAEjrgA.jpg",
+						"url": "https://t.co/lvwxu8VwuJ",
+						"display_url": "pic.twitter.com/lvwxu8VwuJ",
+						"expanded_url": "https://twitter.com/hoochoo_hae/status/939522807137910786/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1378,
+								"h": 2039,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 811,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 939522772941774800,
+						"id_str": "939522772941774849",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DQna-_OVoAEjrgA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQna-_OVoAEjrgA.jpg",
+						"url": "https://t.co/lvwxu8VwuJ",
+						"display_url": "pic.twitter.com/lvwxu8VwuJ",
+						"expanded_url": "https://twitter.com/hoochoo_hae/status/939522807137910786/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1378,
+								"h": 2039,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 811,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 898875737637179400,
+				"id_str": "898875737637179396",
+				"name": "그릴것이○빌런후추●대박밀린",
+				"screen_name": "hoochoo_hae",
+				"location": "쓰떼이끄 위",
+				"description": "혐스일 파는 후추!! FUB free/혐스일계정(+도검,소전,쿠키런,레히삼,마비노기(new) 소금소금후추후추)/지뢰는 없음/혼잣말주의,오타주의,아무말주의/혹시나 맞팔을 원하시면 멘션이나 디엠 보내주셔요 달려갑니다!!/꾸금계 @hoochoohaeYO",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 64,
+				"friends_count": 95,
+				"listed_count": 1,
+				"created_at": "Sat Aug 19 11:54:10 +0000 2017",
+				"favourites_count": 6721,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4313,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939724537347710976/wdMM5jdu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939724537347710976/wdMM5jdu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/898875737637179396/1503205431",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Dec 10 07:46:36 +0000 2017",
 		"id": 939763263096504300,
 		"id_str": "939763263096504320",
