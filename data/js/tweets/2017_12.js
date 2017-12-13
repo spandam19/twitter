@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 13 23:13:59 +0000 2017",
+		"id": 941083810661220400,
+		"id_str": "941083810661220352",
+		"text": "RT @BuckchachA: 12년만에 생일 챙겨줘서 우는 승리,,,,\n조금 귀여워서 저 흔들렸음,,,, https://t.co/SUj90I9EgT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BuckchachA",
+					"name": "벅챠",
+					"id": 838170647763222500,
+					"id_str": "838170647763222528",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 940806058007777300,
+					"id_str": "940806058007777280",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/940806058007777280/pu/img/N1lbuE7YRGUkOdYV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/940806058007777280/pu/img/N1lbuE7YRGUkOdYV.jpg",
+					"url": "https://t.co/SUj90I9EgT",
+					"display_url": "pic.twitter.com/SUj90I9EgT",
+					"expanded_url": "https://twitter.com/BuckchachA/status/940806443539881986/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940806443539882000,
+					"source_status_id_str": "940806443539881986",
+					"source_user_id": 838170647763222500,
+					"source_user_id_str": "838170647763222528"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 940806058007777300,
+					"id_str": "940806058007777280",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/940806058007777280/pu/img/N1lbuE7YRGUkOdYV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/940806058007777280/pu/img/N1lbuE7YRGUkOdYV.jpg",
+					"url": "https://t.co/SUj90I9EgT",
+					"display_url": "pic.twitter.com/SUj90I9EgT",
+					"expanded_url": "https://twitter.com/BuckchachA/status/940806443539881986/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940806443539882000,
+					"source_status_id_str": "940806443539881986",
+					"source_user_id": 838170647763222500,
+					"source_user_id_str": "838170647763222528",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 40033,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/940806058007777280/pu/vid/480x480/hqlitGlI9SYQIgUn.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/940806058007777280/pu/pl/h-LcQfj3tbOtNI7h.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/940806058007777280/pu/vid/240x240/RBxOkPXtSKFdsVG5.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 838170647763222500,
+							"id_str": "838170647763222528",
+							"name": "벅챠",
+							"screen_name": "BuckchachA",
+							"location": "하늘나라",
+							"description": "1992 / Media Designer / Game Concept Artist / Contents Editor / 1-4",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1940,
+							"friends_count": 269,
+							"listed_count": 10,
+							"created_at": "Sat Mar 04 23:33:49 +0000 2017",
+							"favourites_count": 14648,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 15453,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/940253937025740800/UTe1RQSB_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/940253937025740800/UTe1RQSB_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/838170647763222528/1507577371",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 18,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6200,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 13 04:51:50 +0000 2017",
+			"id": 940806443539882000,
+			"id_str": "940806443539881986",
+			"text": "12년만에 생일 챙겨줘서 우는 승리,,,,\n조금 귀여워서 저 흔들렸음,,,, https://t.co/SUj90I9EgT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 940806058007777300,
+						"id_str": "940806058007777280",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/940806058007777280/pu/img/N1lbuE7YRGUkOdYV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/940806058007777280/pu/img/N1lbuE7YRGUkOdYV.jpg",
+						"url": "https://t.co/SUj90I9EgT",
+						"display_url": "pic.twitter.com/SUj90I9EgT",
+						"expanded_url": "https://twitter.com/BuckchachA/status/940806443539881986/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 940806058007777300,
+						"id_str": "940806058007777280",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/940806058007777280/pu/img/N1lbuE7YRGUkOdYV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/940806058007777280/pu/img/N1lbuE7YRGUkOdYV.jpg",
+						"url": "https://t.co/SUj90I9EgT",
+						"display_url": "pic.twitter.com/SUj90I9EgT",
+						"expanded_url": "https://twitter.com/BuckchachA/status/940806443539881986/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 40033,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/940806058007777280/pu/vid/480x480/hqlitGlI9SYQIgUn.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/940806058007777280/pu/pl/h-LcQfj3tbOtNI7h.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/940806058007777280/pu/vid/240x240/RBxOkPXtSKFdsVG5.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 838170647763222500,
+				"id_str": "838170647763222528",
+				"name": "벅챠",
+				"screen_name": "BuckchachA",
+				"location": "하늘나라",
+				"description": "1992 / Media Designer / Game Concept Artist / Contents Editor / 1-4",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1940,
+				"friends_count": 269,
+				"listed_count": 10,
+				"created_at": "Sat Mar 04 23:33:49 +0000 2017",
+				"favourites_count": 14648,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15453,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940253937025740800/UTe1RQSB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940253937025740800/UTe1RQSB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/838170647763222528/1507577371",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2071,
+			"favorite_count": 930,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2071,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Dec 11 11:09:32 +0000 2017",
 		"id": 940176721071956000,
 		"id_str": "940176721071955968",
