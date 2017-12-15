@@ -1,6 +1,722 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 15 09:25:04 +0000 2017",
+		"id": 941599980845801500,
+		"id_str": "941599980845801472",
+		"text": "RT @B3K94: 루: 쿸킄 장관 제게 반했습니까?\n장:.oO(뭐래ㅅㅂ) https://t.co/HlrVxMjy1m",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "B3K94",
+					"name": "김봉삼",
+					"id": 934288756349198300,
+					"id_str": "934288756349198337",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 941295600770859000,
+					"id_str": "941295600770859013",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DRAnXJiVwAUgJis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRAnXJiVwAUgJis.jpg",
+					"url": "https://t.co/HlrVxMjy1m",
+					"display_url": "pic.twitter.com/HlrVxMjy1m",
+					"expanded_url": "https://twitter.com/B3K94/status/941295634841182209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 941295634841182200,
+					"source_status_id_str": "941295634841182209",
+					"source_user_id": 934288756349198300,
+					"source_user_id_str": "934288756349198337"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 941295600770859000,
+					"id_str": "941295600770859013",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DRAnXJiVwAUgJis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRAnXJiVwAUgJis.jpg",
+					"url": "https://t.co/HlrVxMjy1m",
+					"display_url": "pic.twitter.com/HlrVxMjy1m",
+					"expanded_url": "https://twitter.com/B3K94/status/941295634841182209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 941295634841182200,
+					"source_status_id_str": "941295634841182209",
+					"source_user_id": 934288756349198300,
+					"source_user_id_str": "934288756349198337"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 549,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 17,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6218,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 14 13:15:42 +0000 2017",
+			"id": 941295634841182200,
+			"id_str": "941295634841182209",
+			"text": "루: 쿸킄 장관 제게 반했습니까?\n장:.oO(뭐래ㅅㅂ) https://t.co/HlrVxMjy1m",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 941295600770859000,
+						"id_str": "941295600770859013",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/DRAnXJiVwAUgJis.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRAnXJiVwAUgJis.jpg",
+						"url": "https://t.co/HlrVxMjy1m",
+						"display_url": "pic.twitter.com/HlrVxMjy1m",
+						"expanded_url": "https://twitter.com/B3K94/status/941295634841182209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 941295600770859000,
+						"id_str": "941295600770859013",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/DRAnXJiVwAUgJis.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRAnXJiVwAUgJis.jpg",
+						"url": "https://t.co/HlrVxMjy1m",
+						"display_url": "pic.twitter.com/HlrVxMjy1m",
+						"expanded_url": "https://twitter.com/B3K94/status/941295634841182209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 934288756349198300,
+				"id_str": "934288756349198337",
+				"name": "김봉삼",
+				"screen_name": "B3K94",
+				"location": "최애랑 앤캐 가슴 사이",
+				"description": "봉삼이 계이했다 봉삼이 1차2차3차 다 판다\n바쁜일은 직멘이나 디엠 주세엽",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44,
+				"friends_count": 45,
+				"listed_count": 0,
+				"created_at": "Sat Nov 25 05:12:52 +0000 2017",
+				"favourites_count": 291,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1188,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935384490679066625/b3Jbhh3k_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935384490679066625/b3Jbhh3k_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/934288756349198337/1512023956",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Dec 15 09:24:39 +0000 2017",
+		"id": 941599875820433400,
+		"id_str": "941599875820433408",
+		"text": "RT @ice_burg_: 다이어리 합작 &gt; 스케줄러 합작 공지!\n공지가 너무 늦어져 죄송함미다8ㅅ8!!\n\n현재 합작인원 10명으로 공지 후 참여 의사가 있으신 분은 2분 정도 더 받습니다! \n참여하고싶으신 분은 이 밑에 멘션을 달아주세요\nhttps…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ice_burg_",
+					"name": "(메인트 확인)알바노예 아스",
+					"id": 801454099648516100,
+					"id_str": "801454099648516096",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 549,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 17,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6218,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 12 16:04:43 +0000 2017",
+			"id": 940613392087138300,
+			"id_str": "940613392087138305",
+			"text": "다이어리 합작 &gt; 스케줄러 합작 공지!\n공지가 너무 늦어져 죄송함미다8ㅅ8!!\n\n현재 합작인원 10명으로 공지 후 참여 의사가 있으신 분은 2분 정도 더 받습니다! \n참여하고싶으신 분은 이 밑에 멘션을 달아… https://t.co/tZhsUB3IUM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tZhsUB3IUM",
+						"expanded_url": "https://twitter.com/i/web/status/940613392087138305",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 801454099648516100,
+				"id_str": "801454099648516096",
+				"name": "(메인트 확인)알바노예 아스",
+				"screen_name": "ice_burg_",
+				"location": "아이스빙산 꼭대기",
+				"description": "범♡뇨끼 커플 애완수달/FUB FREE / 혐스일 / 아이스파 위주/ 손그림러/ 썰러/ 뒷계 : @icepandam_FIRE (성인 교류트친 only) / 빙산아이스버그시장님은 럽love♡/ 헤더 : 범님",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 162,
+				"friends_count": 63,
+				"listed_count": 0,
+				"created_at": "Wed Nov 23 15:55:22 +0000 2016",
+				"favourites_count": 15954,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27606,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/936304315936866304/pEl-joZ7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/936304315936866304/pEl-joZ7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/801454099648516096/1511456037",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Dec 15 09:23:40 +0000 2017",
+		"id": 941599631963652100,
+		"id_str": "941599631963652098",
+		"text": "RT @dkdltmzld: 파본 교환문의가 생각보다 많지 않아서 오늘부터 재고판매 시작합니다!!\n\nhttps://t.co/UMUCsqUTSl\n\n파본 교환 문의는 계속 받고 있습니다! 추가구매하시는 분들은 폼입력 하지 마시고 메일로 문의 주세요(배송비…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dkdltmzld",
+					"name": "아킹",
+					"id": 2425563644,
+					"id_str": "2425563644",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UMUCsqUTSl",
+					"expanded_url": "http://dkdltmzld.cafe24.com",
+					"display_url": "dkdltmzld.cafe24.com",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 549,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 17,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6218,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 12 04:13:06 +0000 2017",
+			"id": 940434307838967800,
+			"id_str": "940434307838967808",
+			"text": "파본 교환문의가 생각보다 많지 않아서 오늘부터 재고판매 시작합니다!!\n\nhttps://t.co/UMUCsqUTSl\n\n파본 교환 문의는 계속 받고 있습니다! 추가구매하시는 분들은 폼입력 하지 마시고 메일로 문… https://t.co/00WKy903Hr",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UMUCsqUTSl",
+						"expanded_url": "http://dkdltmzld.cafe24.com",
+						"display_url": "dkdltmzld.cafe24.com",
+						"indices": [
+							40,
+							63
+						]
+					},
+					{
+						"url": "https://t.co/00WKy903Hr",
+						"expanded_url": "https://twitter.com/i/web/status/940434307838967808",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2425563644,
+				"id_str": "2425563644",
+				"name": "아킹",
+				"screen_name": "dkdltmzld",
+				"location": "",
+				"description": "_( :3」∠)_ 덕질 계정 입니다 조아라에서 혐오스런 스팬담의 일생 연재중",
+				"url": "https://t.co/8DA0k8XBid",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8DA0k8XBid",
+								"expanded_url": "https://dktlgksk.postype.com",
+								"display_url": "dktlgksk.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2200,
+				"friends_count": 174,
+				"listed_count": 8,
+				"created_at": "Thu Apr 03 12:37:30 +0000 2014",
+				"favourites_count": 16540,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6446,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817013890529660928/TRmqbYYq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817013890529660928/TRmqbYYq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2425563644/1477323981",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 121,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Dec 15 08:47:02 +0000 2017",
 		"id": 941590409074982900,
 		"id_str": "941590409074982913",
