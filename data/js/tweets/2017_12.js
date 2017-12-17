@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 17 00:37:32 +0000 2017",
+		"id": 942191999884566500,
+		"id_str": "942191999884566528",
+		"text": "RT @molsture1: 아 쌍둥이 귀여워서 계속 그리게 되네......살면서 누나한테 말로 한번도 이겨본적이 없는 스팬담도 보고싶다.....플루톤 찾는 계획도 같이하고.....둘다 프랑키한테 쌍으로 쳐맞고 얼굴교정기도 끼고 그랫으면 좋겟다./..…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "molsture1",
+					"name": "⚠️붕붕카⚠️",
+					"id": 2739451243,
+					"id_str": "2739451243",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 548,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 18,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6245,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 11 15:00:38 +0000 2017",
+			"id": 940234877571514400,
+			"id_str": "940234877571514379",
+			"text": "아 쌍둥이 귀여워서 계속 그리게 되네......살면서 누나한테 말로 한번도 이겨본적이 없는 스팬담도 보고싶다.....플루톤 찾는 계획도 같이하고.....둘다 프랑키한테 쌍으로 쳐맞고 얼굴교정기도 끼고 그랫으… https://t.co/4t8nMVeyYU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4t8nMVeyYU",
+						"expanded_url": "https://twitter.com/i/web/status/940234877571514379",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 940219133257326600,
+			"in_reply_to_status_id_str": "940219133257326592",
+			"in_reply_to_user_id": 2739451243,
+			"in_reply_to_user_id_str": "2739451243",
+			"in_reply_to_screen_name": "molsture1",
+			"user": {
+				"id": 2739451243,
+				"id_str": "2739451243",
+				"name": "⚠️붕붕카⚠️",
+				"screen_name": "molsture1",
+				"location": "P.셔먼 42번지 왈라비 웨이 시드니",
+				"description": "F I N D I N G N E M O♥M A R L I N♥   O N E P I C E 💘S P A N D A M 💘                짱관님 충성충성~!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 741,
+				"friends_count": 147,
+				"listed_count": 3,
+				"created_at": "Sun Aug 17 10:10:32 +0000 2014",
+				"favourites_count": 7277,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50371,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939796387218067456/osI5hE0O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939796387218067456/osI5hE0O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2739451243/1512899841",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Dec 16 18:35:14 +0000 2017",
 		"id": 942100825513500700,
 		"id_str": "942100825513500672",
