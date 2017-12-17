@@ -1,6 +1,1553 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 17 12:06:25 +0000 2017",
+		"id": 942365362401640400,
+		"id_str": "942365362401640448",
+		"text": "진짜 이썰 미친다...,",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Dec 17 12:06:17 +0000 2017",
+		"id": 942365329522442200,
+		"id_str": "942365329522442241",
+		"text": "RT @hhs7314: 사용했고 전보벌레로 통화한 직후 급하게 짐을 싸서 바다열차를 탔다는 걸 알아내는데 걸린 시간은 불과 하루. 정황만 본다면 그 청년이 장관이라는 것은 거의 확실해보였으나 블루노는 한가지 의문을 가질 수밖에 없었음. 과연 장관은…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hhs7314",
+					"name": "(반동결)쿠리!",
+					"id": 1966691737,
+					"id_str": "1966691737",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 08:46:28 +0000 2017",
+			"id": 942315044775198700,
+			"id_str": "942315044775198720",
+			"text": "사용했고 전보벌레로 통화한 직후 급하게 짐을 싸서 바다열차를 탔다는 걸 알아내는데 걸린 시간은 불과 하루. 정황만 본다면 그 청년이 장관이라는 것은 거의 확실해보였으나 블루노는 한가지 의문을 가질 수밖에 없… https://t.co/EEquBPawZ7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EEquBPawZ7",
+						"expanded_url": "https://twitter.com/i/web/status/942315044775198720",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 942314086225690600,
+			"in_reply_to_status_id_str": "942314086225690624",
+			"in_reply_to_user_id": 1966691737,
+			"in_reply_to_user_id_str": "1966691737",
+			"in_reply_to_screen_name": "hhs7314",
+			"user": {
+				"id": 1966691737,
+				"id_str": "1966691737",
+				"name": "(반동결)쿠리!",
+				"screen_name": "hhs7314",
+				"location": "태오야 밀밭에서 죽음을 봤어 아름답더라",
+				"description": "본투비잡덕/뮤지컬+투디/성인/글쟁이:휴업/여성향/엘리위키드노담모촤신함윤동주/전동석/애정배우다수/Follow free/비덕멘션없이블락/맞팔시멘션주세요/ https://t.co/AIiGL5Ga6L",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AIiGL5Ga6L",
+								"expanded_url": "http://oldattic1115.tistory.com",
+								"display_url": "oldattic1115.tistory.com",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 233,
+				"friends_count": 215,
+				"listed_count": 3,
+				"created_at": "Thu Oct 17 11:39:19 +0000 2013",
+				"favourites_count": 17265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100391,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1966691737/1441558948",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Dec 17 12:06:15 +0000 2017",
+		"id": 942365320722882600,
+		"id_str": "942365320722882562",
+		"text": "RT @hhs7314: 한편 블루노는 빠른 속도로 전보벌레 추적에 성공했음. 마침 다른 cp0들은 모두 임무에 나간 상태였기에 장관과 독대하려면 지금이 적기였음. 블루노는 전보벌레가 쁘티에 있는 한 여관의 것이며 까만머리의 창백한 인상의 엣된 청년이…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hhs7314",
+					"name": "(반동결)쿠리!",
+					"id": 1966691737,
+					"id_str": "1966691737",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 08:42:40 +0000 2017",
+			"id": 942314086225690600,
+			"id_str": "942314086225690624",
+			"text": "한편 블루노는 빠른 속도로 전보벌레 추적에 성공했음. 마침 다른 cp0들은 모두 임무에 나간 상태였기에 장관과 독대하려면 지금이 적기였음. 블루노는 전보벌레가 쁘티에 있는 한 여관의 것이며 까만머리의 창백한… https://t.co/F5mPgqIiWo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/F5mPgqIiWo",
+						"expanded_url": "https://twitter.com/i/web/status/942314086225690624",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 942308859527405600,
+			"in_reply_to_status_id_str": "942308859527405568",
+			"in_reply_to_user_id": 1966691737,
+			"in_reply_to_user_id_str": "1966691737",
+			"in_reply_to_screen_name": "hhs7314",
+			"user": {
+				"id": 1966691737,
+				"id_str": "1966691737",
+				"name": "(반동결)쿠리!",
+				"screen_name": "hhs7314",
+				"location": "태오야 밀밭에서 죽음을 봤어 아름답더라",
+				"description": "본투비잡덕/뮤지컬+투디/성인/글쟁이:휴업/여성향/엘리위키드노담모촤신함윤동주/전동석/애정배우다수/Follow free/비덕멘션없이블락/맞팔시멘션주세요/ https://t.co/AIiGL5Ga6L",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AIiGL5Ga6L",
+								"expanded_url": "http://oldattic1115.tistory.com",
+								"display_url": "oldattic1115.tistory.com",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 233,
+				"friends_count": 215,
+				"listed_count": 3,
+				"created_at": "Thu Oct 17 11:39:19 +0000 2013",
+				"favourites_count": 17265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100391,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1966691737/1441558948",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Dec 17 12:06:13 +0000 2017",
+		"id": 942365311940026400,
+		"id_str": "942365311940026368",
+		"text": "RT @hhs7314: 그리고 결정적으로 cp0들은 양심이란 게 없었음. 장관에게 기억이 남아있었다면 양심따위가 있을리 없다는 걸 고려하고 계획을 했겠지만 기억이 없는 장관은 워터세븐의 한 여관에서 짐을 풀었음.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hhs7314",
+					"name": "(반동결)쿠리!",
+					"id": 1966691737,
+					"id_str": "1966691737",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 08:21:54 +0000 2017",
+			"id": 942308859527405600,
+			"id_str": "942308859527405568",
+			"text": "그리고 결정적으로 cp0들은 양심이란 게 없었음. 장관에게 기억이 남아있었다면 양심따위가 있을리 없다는 걸 고려하고 계획을 했겠지만 기억이 없는 장관은 워터세븐의 한 여관에서 짐을 풀었음.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 942308857690255400,
+			"in_reply_to_status_id_str": "942308857690255360",
+			"in_reply_to_user_id": 1966691737,
+			"in_reply_to_user_id_str": "1966691737",
+			"in_reply_to_screen_name": "hhs7314",
+			"user": {
+				"id": 1966691737,
+				"id_str": "1966691737",
+				"name": "(반동결)쿠리!",
+				"screen_name": "hhs7314",
+				"location": "태오야 밀밭에서 죽음을 봤어 아름답더라",
+				"description": "본투비잡덕/뮤지컬+투디/성인/글쟁이:휴업/여성향/엘리위키드노담모촤신함윤동주/전동석/애정배우다수/Follow free/비덕멘션없이블락/맞팔시멘션주세요/ https://t.co/AIiGL5Ga6L",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AIiGL5Ga6L",
+								"expanded_url": "http://oldattic1115.tistory.com",
+								"display_url": "oldattic1115.tistory.com",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 233,
+				"friends_count": 215,
+				"listed_count": 3,
+				"created_at": "Thu Oct 17 11:39:19 +0000 2013",
+				"favourites_count": 17265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100391,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1966691737/1441558948",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Dec 17 12:06:11 +0000 2017",
+		"id": 942365303283109900,
+		"id_str": "942365303283109889",
+		"text": "RT @hhs7314: Cp들도 양심이 있다면 자기들이 그렇게 깽판을 쳐놨는데 오진 않겠지. 장관은 마침 시간대가 맞은지라 바다열차를 타고 바로 워터세븐으로 향했음. 다만 장관이 간과한 점이 있다면 현재 cp0들은 장관의 거취에 굉장히 민감해져 있는…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hhs7314",
+					"name": "(반동결)쿠리!",
+					"id": 1966691737,
+					"id_str": "1966691737",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 08:21:53 +0000 2017",
+			"id": 942308857690255400,
+			"id_str": "942308857690255360",
+			"text": "Cp들도 양심이 있다면 자기들이 그렇게 깽판을 쳐놨는데 오진 않겠지. 장관은 마침 시간대가 맞은지라 바다열차를 타고 바로 워터세븐으로 향했음. 다만 장관이 간과한 점이 있다면 현재 cp0들은 장관의 거취에… https://t.co/g3r0fz6MlL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/g3r0fz6MlL",
+						"expanded_url": "https://twitter.com/i/web/status/942308857690255360",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 942307221970419700,
+			"in_reply_to_status_id_str": "942307221970419713",
+			"in_reply_to_user_id": 1966691737,
+			"in_reply_to_user_id_str": "1966691737",
+			"in_reply_to_screen_name": "hhs7314",
+			"user": {
+				"id": 1966691737,
+				"id_str": "1966691737",
+				"name": "(반동결)쿠리!",
+				"screen_name": "hhs7314",
+				"location": "태오야 밀밭에서 죽음을 봤어 아름답더라",
+				"description": "본투비잡덕/뮤지컬+투디/성인/글쟁이:휴업/여성향/엘리위키드노담모촤신함윤동주/전동석/애정배우다수/Follow free/비덕멘션없이블락/맞팔시멘션주세요/ https://t.co/AIiGL5Ga6L",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AIiGL5Ga6L",
+								"expanded_url": "http://oldattic1115.tistory.com",
+								"display_url": "oldattic1115.tistory.com",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 233,
+				"friends_count": 215,
+				"listed_count": 3,
+				"created_at": "Thu Oct 17 11:39:19 +0000 2013",
+				"favourites_count": 17265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100391,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1966691737/1441558948",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Dec 17 12:06:09 +0000 2017",
+		"id": 942365294487466000,
+		"id_str": "942365294487465984",
+		"text": "RT @hhs7314: 문득 장관은 워터세븐을 떠올렸음. 워터세븐은 시장 아이스버그의 통치와 목수들로 인해 치안이 굉장히 안전한 곳이였고 현재는 에니에스 로비편도 끝난 정상결전 직후니 주인공들과 엮일 일도 별로 없을 게 분명했음. 거기에다 이미 아는…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hhs7314",
+					"name": "(반동결)쿠리!",
+					"id": 1966691737,
+					"id_str": "1966691737",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 08:15:23 +0000 2017",
+			"id": 942307221970419700,
+			"id_str": "942307221970419713",
+			"text": "문득 장관은 워터세븐을 떠올렸음. 워터세븐은 시장 아이스버그의 통치와 목수들로 인해 치안이 굉장히 안전한 곳이였고 현재는 에니에스 로비편도 끝난 정상결전 직후니 주인공들과 엮일 일도 별로 없을 게 분명했음.… https://t.co/GJyMlXi3uL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GJyMlXi3uL",
+						"expanded_url": "https://twitter.com/i/web/status/942307221970419713",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 942306023414493200,
+			"in_reply_to_status_id_str": "942306023414493184",
+			"in_reply_to_user_id": 1966691737,
+			"in_reply_to_user_id_str": "1966691737",
+			"in_reply_to_screen_name": "hhs7314",
+			"user": {
+				"id": 1966691737,
+				"id_str": "1966691737",
+				"name": "(반동결)쿠리!",
+				"screen_name": "hhs7314",
+				"location": "태오야 밀밭에서 죽음을 봤어 아름답더라",
+				"description": "본투비잡덕/뮤지컬+투디/성인/글쟁이:휴업/여성향/엘리위키드노담모촤신함윤동주/전동석/애정배우다수/Follow free/비덕멘션없이블락/맞팔시멘션주세요/ https://t.co/AIiGL5Ga6L",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AIiGL5Ga6L",
+								"expanded_url": "http://oldattic1115.tistory.com",
+								"display_url": "oldattic1115.tistory.com",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 233,
+				"friends_count": 215,
+				"listed_count": 3,
+				"created_at": "Thu Oct 17 11:39:19 +0000 2013",
+				"favourites_count": 17265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100391,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1966691737/1441558948",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Dec 17 12:06:07 +0000 2017",
+		"id": 942365285784289300,
+		"id_str": "942365285784289280",
+		"text": "RT @hhs7314: 아무도 만나지 않고 새로운 삶을 시작하고 싶다면 장관이 스스로 선택할 것이라 생각했기에. 다만 장관이 기억을 잃었을 거라고는 배가펑크조차 상상도 못한 일이었음. 여튼 일이 이렇게 된 이상 장관은 안전한 도피처를 떠올려야만 했음…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hhs7314",
+					"name": "(반동결)쿠리!",
+					"id": 1966691737,
+					"id_str": "1966691737",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 08:10:37 +0000 2017",
+			"id": 942306023414493200,
+			"id_str": "942306023414493184",
+			"text": "아무도 만나지 않고 새로운 삶을 시작하고 싶다면 장관이 스스로 선택할 것이라 생각했기에. 다만 장관이 기억을 잃었을 거라고는 배가펑크조차 상상도 못한 일이었음. 여튼 일이 이렇게 된 이상 장관은 안전한 도피… https://t.co/jftxT8n5MS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jftxT8n5MS",
+						"expanded_url": "https://twitter.com/i/web/status/942306023414493184",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 942304821373165600,
+			"in_reply_to_status_id_str": "942304821373165568",
+			"in_reply_to_user_id": 1966691737,
+			"in_reply_to_user_id_str": "1966691737",
+			"in_reply_to_screen_name": "hhs7314",
+			"user": {
+				"id": 1966691737,
+				"id_str": "1966691737",
+				"name": "(반동결)쿠리!",
+				"screen_name": "hhs7314",
+				"location": "태오야 밀밭에서 죽음을 봤어 아름답더라",
+				"description": "본투비잡덕/뮤지컬+투디/성인/글쟁이:휴업/여성향/엘리위키드노담모촤신함윤동주/전동석/애정배우다수/Follow free/비덕멘션없이블락/맞팔시멘션주세요/ https://t.co/AIiGL5Ga6L",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AIiGL5Ga6L",
+								"expanded_url": "http://oldattic1115.tistory.com",
+								"display_url": "oldattic1115.tistory.com",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 233,
+				"friends_count": 215,
+				"listed_count": 3,
+				"created_at": "Thu Oct 17 11:39:19 +0000 2013",
+				"favourites_count": 17265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100391,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1966691737/1441558948",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Dec 17 12:06:02 +0000 2017",
+		"id": 942365268017160200,
+		"id_str": "942365268017160192",
+		"text": "RT @hhs7314: 장관은 현재 미식의 섬 쁘티에 있었음. 배가펑크는 장관이 의식을 차리면 자신의 향후 거취를 어떻게 할 것인지 정할거라 생각했고 때문에 비교적 치안이 안전하고 마린포드와 에니에스 로비와 가까운 쁘티섬에 장관을 데려다놨음. 장관이…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hhs7314",
+					"name": "(반동결)쿠리!",
+					"id": 1966691737,
+					"id_str": "1966691737",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 08:05:51 +0000 2017",
+			"id": 942304821373165600,
+			"id_str": "942304821373165568",
+			"text": "장관은 현재 미식의 섬 쁘티에 있었음. 배가펑크는 장관이 의식을 차리면 자신의 향후 거취를 어떻게 할 것인지 정할거라 생각했고 때문에 비교적 치안이 안전하고 마린포드와 에니에스 로비와 가까운 쁘티섬에 장관을… https://t.co/Xx90sesAr3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Xx90sesAr3",
+						"expanded_url": "https://twitter.com/i/web/status/942304821373165568",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 942302710048493600,
+			"in_reply_to_status_id_str": "942302710048493569",
+			"in_reply_to_user_id": 1966691737,
+			"in_reply_to_user_id_str": "1966691737",
+			"in_reply_to_screen_name": "hhs7314",
+			"user": {
+				"id": 1966691737,
+				"id_str": "1966691737",
+				"name": "(반동결)쿠리!",
+				"screen_name": "hhs7314",
+				"location": "태오야 밀밭에서 죽음을 봤어 아름답더라",
+				"description": "본투비잡덕/뮤지컬+투디/성인/글쟁이:휴업/여성향/엘리위키드노담모촤신함윤동주/전동석/애정배우다수/Follow free/비덕멘션없이블락/맞팔시멘션주세요/ https://t.co/AIiGL5Ga6L",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AIiGL5Ga6L",
+								"expanded_url": "http://oldattic1115.tistory.com",
+								"display_url": "oldattic1115.tistory.com",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 233,
+				"friends_count": 215,
+				"listed_count": 3,
+				"created_at": "Thu Oct 17 11:39:19 +0000 2013",
+				"favourites_count": 17265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100391,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1966691737/1441558948",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Dec 17 12:06:00 +0000 2017",
+		"id": 942365258001268700,
+		"id_str": "942365258001268736",
+		"text": "RT @hhs7314: 장관은 전보벌레를 끊은 즉시 도망갈 채비를 했음. 상대는 전직 cp9였고 전보벌레를 받은 걸 보니 도망자가 아닌 cp0가 된 게 분명했음. 지금 이 몸뚱이가 cp들과 무슨 관계인지 모르겠지만 cp의 직통 번호를 알고 있다는 것…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hhs7314",
+					"name": "(반동결)쿠리!",
+					"id": 1966691737,
+					"id_str": "1966691737",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 07:57:27 +0000 2017",
+			"id": 942302710048493600,
+			"id_str": "942302710048493569",
+			"text": "장관은 전보벌레를 끊은 즉시 도망갈 채비를 했음. 상대는 전직 cp9였고 전보벌레를 받은 걸 보니 도망자가 아닌 cp0가 된 게 분명했음. 지금 이 몸뚱이가 cp들과 무슨 관계인지 모르겠지만 cp의 직통 번… https://t.co/bTdsqyDdMB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bTdsqyDdMB",
+						"expanded_url": "https://twitter.com/i/web/status/942302710048493569",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 941832581518987300,
+			"in_reply_to_status_id_str": "941832581518987265",
+			"in_reply_to_user_id": 1966691737,
+			"in_reply_to_user_id_str": "1966691737",
+			"in_reply_to_screen_name": "hhs7314",
+			"user": {
+				"id": 1966691737,
+				"id_str": "1966691737",
+				"name": "(반동결)쿠리!",
+				"screen_name": "hhs7314",
+				"location": "태오야 밀밭에서 죽음을 봤어 아름답더라",
+				"description": "본투비잡덕/뮤지컬+투디/성인/글쟁이:휴업/여성향/엘리위키드노담모촤신함윤동주/전동석/애정배우다수/Follow free/비덕멘션없이블락/맞팔시멘션주세요/ https://t.co/AIiGL5Ga6L",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AIiGL5Ga6L",
+								"expanded_url": "http://oldattic1115.tistory.com",
+								"display_url": "oldattic1115.tistory.com",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 233,
+				"friends_count": 215,
+				"listed_count": 3,
+				"created_at": "Thu Oct 17 11:39:19 +0000 2013",
+				"favourites_count": 17265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100391,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1966691737/1441558948",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Dec 17 00:37:32 +0000 2017",
 		"id": 942191999884566500,
 		"id_str": "942191999884566528",
