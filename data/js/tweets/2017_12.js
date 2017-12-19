@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 19 07:12:41 +0000 2017",
+		"id": 943016216418926600,
+		"id_str": "943016216418926593",
+		"text": "RT @hhs7314: 물론 원작과 좀 다르긴하지만 어차피 자신은 주인공의 길에서 벗어나 평화를 즐기고 있었다. 이제 슬슬 원래 몸의 주인이 어떤 사람인지 알아보기도 귀찮았다. 그냥 이대로도 좋잖아. 적당히 돈도 있고, 트러블도 없고. 수능 끝났다고…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hhs7314",
+					"name": "(반동결)쿠리!",
+					"id": 1966691737,
+					"id_str": "1966691737",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 551,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6261,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 19 06:18:34 +0000 2017",
+			"id": 943002597622870000,
+			"id_str": "943002597622870017",
+			"text": "물론 원작과 좀 다르긴하지만 어차피 자신은 주인공의 길에서 벗어나 평화를 즐기고 있었다. 이제 슬슬 원래 몸의 주인이 어떤 사람인지 알아보기도 귀찮았다. 그냥 이대로도 좋잖아. 적당히 돈도 있고, 트러블도… https://t.co/MVBMUuhJtp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MVBMUuhJtp",
+						"expanded_url": "https://twitter.com/i/web/status/943002597622870017",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 943002306898829300,
+			"in_reply_to_status_id_str": "943002306898829313",
+			"in_reply_to_user_id": 1966691737,
+			"in_reply_to_user_id_str": "1966691737",
+			"in_reply_to_screen_name": "hhs7314",
+			"user": {
+				"id": 1966691737,
+				"id_str": "1966691737",
+				"name": "(반동결)쿠리!",
+				"screen_name": "hhs7314",
+				"location": "태오야 밀밭에서 죽음을 봤어 아름답더라",
+				"description": "본투비잡덕/뮤지컬+투디/성인/글쟁이:휴업/여성향/엘리위키드노담모촤신함윤동주/전동석/애정배우다수/Follow free/비덕멘션없이블락/맞팔시멘션주세요/ https://t.co/AIiGL5Ga6L",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AIiGL5Ga6L",
+								"expanded_url": "http://oldattic1115.tistory.com",
+								"display_url": "oldattic1115.tistory.com",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 232,
+				"friends_count": 215,
+				"listed_count": 3,
+				"created_at": "Thu Oct 17 11:39:19 +0000 2013",
+				"favourites_count": 17271,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100504,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933886378621857793/_QV4X_q0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1966691737/1441558948",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Dec 18 13:09:22 +0000 2017",
 		"id": 942743593931849700,
 		"id_str": "942743593931849728",
