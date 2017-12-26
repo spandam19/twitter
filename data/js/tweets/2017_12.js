@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 26 16:24:43 +0000 2017",
+		"id": 945691857148710900,
+		"id_str": "945691857148710913",
+		"text": "RT @200_MccMurphy: 혐스일 보기 전 후의 내 안의 스팬담 이미지 변화 https://t.co/A67mdCZo07",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "200_MccMurphy",
+					"name": "8월",
+					"id": 4901714371,
+					"id_str": "4901714371",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 856090030888034300,
+					"id_str": "856090030888034304",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/C-FxWOrVoAAZ8F2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-FxWOrVoAAZ8F2.jpg",
+					"url": "https://t.co/A67mdCZo07",
+					"display_url": "pic.twitter.com/A67mdCZo07",
+					"expanded_url": "https://twitter.com/200_MccMurphy/status/856090038236401664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 307,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 924,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 856090038236401700,
+					"source_status_id_str": "856090038236401664",
+					"source_user_id": 4901714371,
+					"source_user_id_str": "4901714371"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 856090030888034300,
+					"id_str": "856090030888034304",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/C-FxWOrVoAAZ8F2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-FxWOrVoAAZ8F2.jpg",
+					"url": "https://t.co/A67mdCZo07",
+					"display_url": "pic.twitter.com/A67mdCZo07",
+					"expanded_url": "https://twitter.com/200_MccMurphy/status/856090038236401664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 307,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 924,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 856090038236401700,
+					"source_status_id_str": "856090038236401664",
+					"source_user_id": 4901714371,
+					"source_user_id_str": "4901714371"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 554,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 16,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6296,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 23 10:19:05 +0000 2017",
+			"id": 856090038236401700,
+			"id_str": "856090038236401664",
+			"text": "혐스일 보기 전 후의 내 안의 스팬담 이미지 변화 https://t.co/A67mdCZo07",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 856090030888034300,
+						"id_str": "856090030888034304",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/C-FxWOrVoAAZ8F2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-FxWOrVoAAZ8F2.jpg",
+						"url": "https://t.co/A67mdCZo07",
+						"display_url": "pic.twitter.com/A67mdCZo07",
+						"expanded_url": "https://twitter.com/200_MccMurphy/status/856090038236401664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 307,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 541,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 924,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 856090030888034300,
+						"id_str": "856090030888034304",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/C-FxWOrVoAAZ8F2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-FxWOrVoAAZ8F2.jpg",
+						"url": "https://t.co/A67mdCZo07",
+						"display_url": "pic.twitter.com/A67mdCZo07",
+						"expanded_url": "https://twitter.com/200_MccMurphy/status/856090038236401664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 307,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 541,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 924,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4901714371,
+				"id_str": "4901714371",
+				"name": "8월",
+				"screen_name": "200_MccMurphy",
+				"location": "",
+				"description": "좋아하는걸그려요/ ※FUB free※ /존잘님들께 하트테러/ 모든 창작물의 무단불펌 및 무단도용, 공유를 금지합니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 501,
+				"friends_count": 79,
+				"listed_count": 1,
+				"created_at": "Sat Feb 13 11:34:55 +0000 2016",
+				"favourites_count": 7759,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5772,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/920589393521295360/2bItJx3m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/920589393521295360/2bItJx3m_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 80,
+			"favorite_count": 99,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Dec 26 16:24:02 +0000 2017",
+		"id": 945691683466895400,
+		"id_str": "945691683466895360",
+		"text": "RT @dulci_0213: 하나하키 세계관이었으면 보라색 장미 토할 새끼들 너무 많다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dulci_0213",
+					"name": "하이에나 둘시ダルシ✣",
+					"id": 1582930566,
+					"id_str": "1582930566",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 554,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 16,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6296,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 03 18:21:10 +0000 2017",
+			"id": 871069261602603000,
+			"id_str": "871069261602603009",
+			"text": "하나하키 세계관이었으면 보라색 장미 토할 새끼들 너무 많다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1582930566,
+				"id_str": "1582930566",
+				"name": "하이에나 둘시ダルシ✣",
+				"screen_name": "dulci_0213",
+				"location": "bellamy's side",
+				"description": "원피스, 혐스일, 스유 팝니다. 단행본 정발파 No Spoiler! 헤더는 존잘 두님(@whywhatyy) 프사 낙냑님♡ ^q^ DO NOT REPOST MY WORK 알계팔로 블락",
+				"url": "https://t.co/9UhLqztiY5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9UhLqztiY5",
+								"expanded_url": "http://savanna.xo.st",
+								"display_url": "savanna.xo.st",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 724,
+				"friends_count": 121,
+				"listed_count": 5,
+				"created_at": "Wed Jul 10 12:06:51 +0000 2013",
+				"favourites_count": 7369,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 64286,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/715887890903871488/IO_i9B1f.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/715887890903871488/IO_i9B1f.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937037643967115264/PHVKfZAY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937037643967115264/PHVKfZAY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1582930566/1473669093",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Dec 26 10:16:23 +0000 2017",
 		"id": 945599161474326500,
 		"id_str": "945599161474326529",
