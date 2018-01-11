@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 11 04:34:50 +0000 2018",
+		"id": 951311416631242800,
+		"id_str": "951311416631242752",
+		"text": "RT @dulci_0213: 혐싈 극ㅎㄱ주 패러디 &lt; 극한장관 &gt;\nhttps://t.co/2XkDJ29D6y https://t.co/yypK6l3Zyp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dulci_0213",
+					"name": "하이에나 둘시ダルシ✣",
+					"id": 1582930566,
+					"id_str": "1582930566",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2XkDJ29D6y",
+					"expanded_url": "http://dulciwork.tistory.com/54",
+					"display_url": "dulciwork.tistory.com/54",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 950796628897685500,
+					"id_str": "950796628897685504",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DTHofxcV4AAkGlv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTHofxcV4AAkGlv.jpg",
+					"url": "https://t.co/yypK6l3Zyp",
+					"display_url": "pic.twitter.com/yypK6l3Zyp",
+					"expanded_url": "https://twitter.com/dulci_0213/status/950796637206560768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 483,
+							"h": 468,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 468,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 483,
+							"h": 468,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950796637206560800,
+					"source_status_id_str": "950796637206560768",
+					"source_user_id": 1582930566,
+					"source_user_id_str": "1582930566"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 950796628897685500,
+					"id_str": "950796628897685504",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DTHofxcV4AAkGlv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTHofxcV4AAkGlv.jpg",
+					"url": "https://t.co/yypK6l3Zyp",
+					"display_url": "pic.twitter.com/yypK6l3Zyp",
+					"expanded_url": "https://twitter.com/dulci_0213/status/950796637206560768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 483,
+							"h": 468,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 468,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 483,
+							"h": 468,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950796637206560800,
+					"source_status_id_str": "950796637206560768",
+					"source_user_id": 1582930566,
+					"source_user_id_str": "1582930566"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6625,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 18:29:17 +0000 2018",
+			"id": 950796637206560800,
+			"id_str": "950796637206560768",
+			"text": "혐싈 극ㅎㄱ주 패러디 &lt; 극한장관 &gt;\nhttps://t.co/2XkDJ29D6y https://t.co/yypK6l3Zyp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2XkDJ29D6y",
+						"expanded_url": "http://dulciwork.tistory.com/54",
+						"display_url": "dulciwork.tistory.com/54",
+						"indices": [
+							27,
+							50
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 950796628897685500,
+						"id_str": "950796628897685504",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DTHofxcV4AAkGlv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTHofxcV4AAkGlv.jpg",
+						"url": "https://t.co/yypK6l3Zyp",
+						"display_url": "pic.twitter.com/yypK6l3Zyp",
+						"expanded_url": "https://twitter.com/dulci_0213/status/950796637206560768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 483,
+								"h": 468,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 483,
+								"h": 468,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 483,
+								"h": 468,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950796628897685500,
+						"id_str": "950796628897685504",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DTHofxcV4AAkGlv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTHofxcV4AAkGlv.jpg",
+						"url": "https://t.co/yypK6l3Zyp",
+						"display_url": "pic.twitter.com/yypK6l3Zyp",
+						"expanded_url": "https://twitter.com/dulci_0213/status/950796637206560768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 483,
+								"h": 468,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 483,
+								"h": 468,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 483,
+								"h": 468,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1582930566,
+				"id_str": "1582930566",
+				"name": "하이에나 둘시ダルシ✣",
+				"screen_name": "dulci_0213",
+				"location": "bellamy's side",
+				"description": "원피스, 혐스일, 스유 팝니다. 단행본 정발파 No Spoiler! 헤더는 존잘 두님(@whywhatyy) 프사 낙냑님♡ ^q^ DO NOT REPOST MY WORK 알계팔로 블락",
+				"url": "https://t.co/9UhLqztiY5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9UhLqztiY5",
+								"expanded_url": "http://savanna.xo.st",
+								"display_url": "savanna.xo.st",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 727,
+				"friends_count": 121,
+				"listed_count": 5,
+				"created_at": "Wed Jul 10 12:06:51 +0000 2013",
+				"favourites_count": 7384,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 66459,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/715887890903871488/IO_i9B1f.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/715887890903871488/IO_i9B1f.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937037643967115264/PHVKfZAY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937037643967115264/PHVKfZAY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1582930566/1473669093",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Jan 10 23:43:46 +0000 2018",
 		"id": 951238164483522600,
 		"id_str": "951238164483522560",
