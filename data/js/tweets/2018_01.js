@@ -1,6 +1,1182 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 19 03:45:03 +0000 2018",
+		"id": 954197990712909800,
+		"id_str": "954197990712909824",
+		"text": "RT @ydulf: 21g 햄장님 영혼을 얻기위한 햄장님 연성이라 우긴다,,,, #혐스일,, https://t.co/9Qmkjg5C4d",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일",
+					"indices": [
+						45,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ydulf",
+					"name": "❄8❄",
+					"id": 878174035816755200,
+					"id_str": "878174035816755200",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 953619086784655400,
+					"id_str": "953619086784655360",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DTvvgcbU8AAi6Nv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTvvgcbU8AAi6Nv.jpg",
+					"url": "https://t.co/9Qmkjg5C4d",
+					"display_url": "pic.twitter.com/9Qmkjg5C4d",
+					"expanded_url": "https://twitter.com/ydulf/status/953619161690734592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 664,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 829,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 829,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 953619161690734600,
+					"source_status_id_str": "953619161690734592",
+					"source_user_id": 878174035816755200,
+					"source_user_id_str": "878174035816755200"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 953619086784655400,
+					"id_str": "953619086784655360",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DTvvgcbU8AAi6Nv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTvvgcbU8AAi6Nv.jpg",
+					"url": "https://t.co/9Qmkjg5C4d",
+					"display_url": "pic.twitter.com/9Qmkjg5C4d",
+					"expanded_url": "https://twitter.com/ydulf/status/953619161690734592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 664,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 829,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 829,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 953619161690734600,
+					"source_status_id_str": "953619161690734592",
+					"source_user_id": 878174035816755200,
+					"source_user_id_str": "878174035816755200"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6754,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 17 13:25:00 +0000 2018",
+			"id": 953619161690734600,
+			"id_str": "953619161690734592",
+			"text": "21g 햄장님 영혼을 얻기위한 햄장님 연성이라 우긴다,,,, #혐스일,, https://t.co/9Qmkjg5C4d",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일",
+						"indices": [
+							34,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 953619086784655400,
+						"id_str": "953619086784655360",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DTvvgcbU8AAi6Nv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTvvgcbU8AAi6Nv.jpg",
+						"url": "https://t.co/9Qmkjg5C4d",
+						"display_url": "pic.twitter.com/9Qmkjg5C4d",
+						"expanded_url": "https://twitter.com/ydulf/status/953619161690734592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 664,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 809,
+								"h": 829,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 809,
+								"h": 829,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 953619086784655400,
+						"id_str": "953619086784655360",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DTvvgcbU8AAi6Nv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTvvgcbU8AAi6Nv.jpg",
+						"url": "https://t.co/9Qmkjg5C4d",
+						"display_url": "pic.twitter.com/9Qmkjg5C4d",
+						"expanded_url": "https://twitter.com/ydulf/status/953619161690734592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 664,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 809,
+								"h": 829,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 809,
+								"h": 829,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 878174035816755200,
+				"id_str": "878174035816755200",
+				"name": "❄8❄",
+				"screen_name": "ydulf",
+				"location": "그림연성은 모멘트에 / 리퀘박스👉",
+				"description": "성인 | FUB FREE(2D계 한정) | 원피스 | 혐스일 | 쿠키런 | 말 편하게 걸어주세용~!~!😆😆",
+				"url": "https://t.co/b5Qo4z8Dyw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b5Qo4z8Dyw",
+								"expanded_url": "https://goo.gl/Dr3XGQ",
+								"display_url": "goo.gl/Dr3XGQ",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 275,
+				"friends_count": 76,
+				"listed_count": 1,
+				"created_at": "Fri Jun 23 08:53:00 +0000 2017",
+				"favourites_count": 9577,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7830,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953628648191401989/Xe9K7ULZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953628648191401989/Xe9K7ULZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/878174035816755200/1516174974",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jan 19 03:44:34 +0000 2018",
+		"id": 954197866909646800,
+		"id_str": "954197866909646848",
+		"text": "RT @B__________W: 입시 문제 때문에 당분간 매우 적던 연성이 존재 자체가 사라질 것 같아 아쉬운 마음에 만들던 영상이라도 올립니다\n\n#혐스일 https://t.co/JYwr8sgp5y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일",
+					"indices": [
+						82,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "B__________W",
+					"name": "k47✒동결✒",
+					"id": 889455557425246200,
+					"id_str": "889455557425246209",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 953928172076060700,
+					"id_str": "953928172076060672",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/953928172076060672/pu/img/-qvx1BxR1lNbbOoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/953928172076060672/pu/img/-qvx1BxR1lNbbOoP.jpg",
+					"url": "https://t.co/JYwr8sgp5y",
+					"display_url": "pic.twitter.com/JYwr8sgp5y",
+					"expanded_url": "https://twitter.com/B__________W/status/953928312895586304/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 953928312895586300,
+					"source_status_id_str": "953928312895586304",
+					"source_user_id": 889455557425246200,
+					"source_user_id_str": "889455557425246209"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 953928172076060700,
+					"id_str": "953928172076060672",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/953928172076060672/pu/img/-qvx1BxR1lNbbOoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/953928172076060672/pu/img/-qvx1BxR1lNbbOoP.jpg",
+					"url": "https://t.co/JYwr8sgp5y",
+					"display_url": "pic.twitter.com/JYwr8sgp5y",
+					"expanded_url": "https://twitter.com/B__________W/status/953928312895586304/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 953928312895586300,
+					"source_status_id_str": "953928312895586304",
+					"source_user_id": 889455557425246200,
+					"source_user_id_str": "889455557425246209",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 71738,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/953928172076060672/pu/pl/c10fAU9uENH1JUUP.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/953928172076060672/pu/vid/320x180/sT4-vzxHIFbUAj4g.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/953928172076060672/pu/vid/640x360/uaXRT_rLvm0sPuVp.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/953928172076060672/pu/vid/1280x720/wnUj9FmETmwGs9Lz.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 889455557425246200,
+							"id_str": "889455557425246209",
+							"name": "k47✒동결✒",
+							"screen_name": "B__________W",
+							"location": "아직은 이르다",
+							"description": "#회색의_혐스일《 혐스일 관련 아이디어, 썰 모음\n혐스일 계정\n접율 낮음\n주로 새벽에 들어와서 썰풀고 갑니다.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 36,
+							"friends_count": 47,
+							"listed_count": 0,
+							"created_at": "Mon Jul 24 12:01:44 +0000 2017",
+							"favourites_count": 1543,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 3237,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/948282250189090816/mPZPTbvy_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/948282250189090816/mPZPTbvy_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/889455557425246209/1502390398",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6754,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 18 09:53:27 +0000 2018",
+			"id": 953928312895586300,
+			"id_str": "953928312895586304",
+			"text": "입시 문제 때문에 당분간 매우 적던 연성이 존재 자체가 사라질 것 같아 아쉬운 마음에 만들던 영상이라도 올립니다\n\n#혐스일 https://t.co/JYwr8sgp5y",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일",
+						"indices": [
+							64,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 953928172076060700,
+						"id_str": "953928172076060672",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/953928172076060672/pu/img/-qvx1BxR1lNbbOoP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/953928172076060672/pu/img/-qvx1BxR1lNbbOoP.jpg",
+						"url": "https://t.co/JYwr8sgp5y",
+						"display_url": "pic.twitter.com/JYwr8sgp5y",
+						"expanded_url": "https://twitter.com/B__________W/status/953928312895586304/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 953928172076060700,
+						"id_str": "953928172076060672",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/953928172076060672/pu/img/-qvx1BxR1lNbbOoP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/953928172076060672/pu/img/-qvx1BxR1lNbbOoP.jpg",
+						"url": "https://t.co/JYwr8sgp5y",
+						"display_url": "pic.twitter.com/JYwr8sgp5y",
+						"expanded_url": "https://twitter.com/B__________W/status/953928312895586304/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 71738,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/953928172076060672/pu/pl/c10fAU9uENH1JUUP.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/953928172076060672/pu/vid/320x180/sT4-vzxHIFbUAj4g.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/953928172076060672/pu/vid/640x360/uaXRT_rLvm0sPuVp.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/953928172076060672/pu/vid/1280x720/wnUj9FmETmwGs9Lz.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 889455557425246200,
+				"id_str": "889455557425246209",
+				"name": "k47✒동결✒",
+				"screen_name": "B__________W",
+				"location": "아직은 이르다",
+				"description": "#회색의_혐스일《 혐스일 관련 아이디어, 썰 모음\n혐스일 계정\n접율 낮음\n주로 새벽에 들어와서 썰풀고 갑니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36,
+				"friends_count": 47,
+				"listed_count": 0,
+				"created_at": "Mon Jul 24 12:01:44 +0000 2017",
+				"favourites_count": 1543,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3237,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948282250189090816/mPZPTbvy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948282250189090816/mPZPTbvy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/889455557425246209/1502390398",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jan 19 03:44:30 +0000 2018",
+		"id": 954197851877163000,
+		"id_str": "954197851877163008",
+		"text": "RT @rldnjswjs594: #혐스일 루치장관 불가항력\n이시야님 리퀘스트\n루치×어장님으로 막무가내인 루치와 도망가는 장관님의 이야기\nhttps://t.co/kemCePUXBf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일",
+					"indices": [
+						18,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rldnjswjs594",
+					"name": "댄스킹 솔론",
+					"id": 547430242,
+					"id_str": "547430242",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kemCePUXBf",
+					"expanded_url": "http://posty.pe/24ticr",
+					"display_url": "posty.pe/24ticr",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6754,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 18 12:34:04 +0000 2018",
+			"id": 953968731218038800,
+			"id_str": "953968731218038786",
+			"text": "#혐스일 루치장관 불가항력\n이시야님 리퀘스트\n루치×어장님으로 막무가내인 루치와 도망가는 장관님의 이야기\nhttps://t.co/kemCePUXBf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일",
+						"indices": [
+							0,
+							4
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kemCePUXBf",
+						"expanded_url": "http://posty.pe/24ticr",
+						"display_url": "posty.pe/24ticr",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 952506292555284500,
+			"in_reply_to_status_id_str": "952506292555284480",
+			"in_reply_to_user_id": 547430242,
+			"in_reply_to_user_id_str": "547430242",
+			"in_reply_to_screen_name": "rldnjswjs594",
+			"user": {
+				"id": 547430242,
+				"id_str": "547430242",
+				"name": "댄스킹 솔론",
+				"screen_name": "rldnjswjs594",
+				"location": "",
+				"description": "성인/FUB Free/지금은 혐스일/기본 잡덕/썰 풀고 글쓰기",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42,
+				"friends_count": 35,
+				"listed_count": 0,
+				"created_at": "Sat Apr 07 08:07:28 +0000 2012",
+				"favourites_count": 1417,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1287,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/936920894177296385/1FtLfKVV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/936920894177296385/1FtLfKVV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/547430242/1516154718",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jan 19 03:42:42 +0000 2018",
+		"id": 954197400075214800,
+		"id_str": "954197400075214848",
+		"text": "뿌-듯 ◠‿◠ https://t.co/aVGDopKbGr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 954197395859939300,
+					"id_str": "954197395859939328",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/DT39ednVoAA5cWI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT39ednVoAA5cWI.jpg",
+					"url": "https://t.co/aVGDopKbGr",
+					"display_url": "pic.twitter.com/aVGDopKbGr",
+					"expanded_url": "https://twitter.com/spandambamboo3/status/954197400075214848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 954197395859939300,
+					"id_str": "954197395859939328",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/DT39ednVoAA5cWI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT39ednVoAA5cWI.jpg",
+					"url": "https://t.co/aVGDopKbGr",
+					"display_url": "pic.twitter.com/aVGDopKbGr",
+					"expanded_url": "https://twitter.com/spandambamboo3/status/954197400075214848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6754,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Jan 19 02:49:57 +0000 2018",
 		"id": 954184122590613500,
 		"id_str": "954184122590613504",
