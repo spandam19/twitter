@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 07 15:42:16 +0000 2018",
+		"id": 961263850917044200,
+		"id_str": "961263850917044224",
+		"text": "RT @Petit_katakuri: #혐스일\n블라썸이 취미가 오장님 꾸미기라 그렇지 사실 원래 직책은 호위인 만화 https://t.co/4qnj3HRMTj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일",
+					"indices": [
+						20,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Petit_katakuri",
+					"name": "팥앙꼬 찹쌀떡",
+					"id": 286527415,
+					"id_str": "286527415",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 961249831741284400,
+					"id_str": "961249831741284352",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DVcLoQlX4AAfyME.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DVcLoQlX4AAfyME.jpg",
+					"url": "https://t.co/4qnj3HRMTj",
+					"display_url": "pic.twitter.com/4qnj3HRMTj",
+					"expanded_url": "https://twitter.com/Petit_katakuri/status/961249863815122945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 961249863815123000,
+					"source_status_id_str": "961249863815122945",
+					"source_user_id": 286527415,
+					"source_user_id_str": "286527415"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 961249831741284400,
+					"id_str": "961249831741284352",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DVcLoQlX4AAfyME.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DVcLoQlX4AAfyME.jpg",
+					"url": "https://t.co/4qnj3HRMTj",
+					"display_url": "pic.twitter.com/4qnj3HRMTj",
+					"expanded_url": "https://twitter.com/Petit_katakuri/status/961249863815122945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 961249863815123000,
+					"source_status_id_str": "961249863815122945",
+					"source_user_id": 286527415,
+					"source_user_id_str": "286527415"
+				},
+				{
+					"id": 961249831745478700,
+					"id_str": "961249831745478656",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DVcLoQmX4AAIgSi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DVcLoQmX4AAIgSi.jpg",
+					"url": "https://t.co/4qnj3HRMTj",
+					"display_url": "pic.twitter.com/4qnj3HRMTj",
+					"expanded_url": "https://twitter.com/Petit_katakuri/status/961249863815122945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 961249863815123000,
+					"source_status_id_str": "961249863815122945",
+					"source_user_id": 286527415,
+					"source_user_id_str": "286527415"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 607,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6962,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 07 14:46:41 +0000 2018",
+			"id": 961249863815123000,
+			"id_str": "961249863815122945",
+			"text": "#혐스일\n블라썸이 취미가 오장님 꾸미기라 그렇지 사실 원래 직책은 호위인 만화 https://t.co/4qnj3HRMTj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일",
+						"indices": [
+							0,
+							4
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 961249831741284400,
+						"id_str": "961249831741284352",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DVcLoQlX4AAfyME.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVcLoQlX4AAfyME.jpg",
+						"url": "https://t.co/4qnj3HRMTj",
+						"display_url": "pic.twitter.com/4qnj3HRMTj",
+						"expanded_url": "https://twitter.com/Petit_katakuri/status/961249863815122945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 408,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 961249831741284400,
+						"id_str": "961249831741284352",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DVcLoQlX4AAfyME.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVcLoQlX4AAfyME.jpg",
+						"url": "https://t.co/4qnj3HRMTj",
+						"display_url": "pic.twitter.com/4qnj3HRMTj",
+						"expanded_url": "https://twitter.com/Petit_katakuri/status/961249863815122945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 408,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 961249831745478700,
+						"id_str": "961249831745478656",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DVcLoQmX4AAIgSi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVcLoQmX4AAIgSi.jpg",
+						"url": "https://t.co/4qnj3HRMTj",
+						"display_url": "pic.twitter.com/4qnj3HRMTj",
+						"expanded_url": "https://twitter.com/Petit_katakuri/status/961249863815122945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 286527415,
+				"id_str": "286527415",
+				"name": "팥앙꼬 찹쌀떡",
+				"screen_name": "Petit_katakuri",
+				"location": "",
+				"description": "최애가 디게많은 액체형 FUB프리\n9n년생 성인 잡트,욕트,자뻑트윗,본인x최애디게 많음\n원피스/토트랜드/Cp9/아이스버그/카르가라/혐스일/나미/페루/레일리\n지뢰는 없고 제가 지뢰인것 같습니다..\n드림:카르가라(원피스)X아샤 #카르아샤\n그 외 최애와 트친분들께 플러팅 많ㅇ습니당..",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 125,
+				"friends_count": 96,
+				"listed_count": 1,
+				"created_at": "Sat Apr 23 05:18:01 +0000 2011",
+				"favourites_count": 3513,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2643,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960516214605910017/YlnTRLRf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960516214605910017/YlnTRLRf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/286527415/1517128587",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Feb 07 09:06:47 +0000 2018",
 		"id": 961164327414767600,
 		"id_str": "961164327414767616",
