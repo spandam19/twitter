@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 10 22:39:11 +0000 2018",
+		"id": 962455936366334000,
+		"id_str": "962455936366333952",
+		"text": "RT @JJUNG_2171: \"나쁜놈아\"\n\n#혐스일\n\n-눈두덩이 수정해왓다 https://t.co/AHhro2n8uO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일",
+					"indices": [
+						24,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JJUNG_2171",
+					"name": "✨쩡님✨",
+					"id": 885795722532081700,
+					"id_str": "885795722532081664",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 961866227697074200,
+					"id_str": "961866227697074176",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DVk8POdUQAAMCMj.png",
+					"media_url_https": "https://pbs.twimg.com/media/DVk8POdUQAAMCMj.png",
+					"url": "https://t.co/AHhro2n8uO",
+					"display_url": "pic.twitter.com/AHhro2n8uO",
+					"expanded_url": "https://twitter.com/JJUNG_2171/status/961866275663134720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 610,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1161,
+							"h": 1041,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1161,
+							"h": 1041,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 961866275663134700,
+					"source_status_id_str": "961866275663134720",
+					"source_user_id": 885795722532081700,
+					"source_user_id_str": "885795722532081664"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 961866227697074200,
+					"id_str": "961866227697074176",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DVk8POdUQAAMCMj.png",
+					"media_url_https": "https://pbs.twimg.com/media/DVk8POdUQAAMCMj.png",
+					"url": "https://t.co/AHhro2n8uO",
+					"display_url": "pic.twitter.com/AHhro2n8uO",
+					"expanded_url": "https://twitter.com/JJUNG_2171/status/961866275663134720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 610,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1161,
+							"h": 1041,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1161,
+							"h": 1041,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 961866275663134700,
+					"source_status_id_str": "961866275663134720",
+					"source_user_id": 885795722532081700,
+					"source_user_id_str": "885795722532081664"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6973,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 09 07:36:05 +0000 2018",
+			"id": 961866275663134700,
+			"id_str": "961866275663134720",
+			"text": "\"나쁜놈아\"\n\n#혐스일\n\n-눈두덩이 수정해왓다 https://t.co/AHhro2n8uO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혐스일",
+						"indices": [
+							8,
+							12
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 961866227697074200,
+						"id_str": "961866227697074176",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DVk8POdUQAAMCMj.png",
+						"media_url_https": "https://pbs.twimg.com/media/DVk8POdUQAAMCMj.png",
+						"url": "https://t.co/AHhro2n8uO",
+						"display_url": "pic.twitter.com/AHhro2n8uO",
+						"expanded_url": "https://twitter.com/JJUNG_2171/status/961866275663134720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 610,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1161,
+								"h": 1041,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1161,
+								"h": 1041,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 961866227697074200,
+						"id_str": "961866227697074176",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DVk8POdUQAAMCMj.png",
+						"media_url_https": "https://pbs.twimg.com/media/DVk8POdUQAAMCMj.png",
+						"url": "https://t.co/AHhro2n8uO",
+						"display_url": "pic.twitter.com/AHhro2n8uO",
+						"expanded_url": "https://twitter.com/JJUNG_2171/status/961866275663134720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 610,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1161,
+								"h": 1041,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1161,
+								"h": 1041,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 940215646033342500,
+			"in_reply_to_status_id_str": "940215646033342464",
+			"in_reply_to_user_id": 885795722532081700,
+			"in_reply_to_user_id_str": "885795722532081664",
+			"in_reply_to_screen_name": "JJUNG_2171",
+			"user": {
+				"id": 885795722532081700,
+				"id_str": "885795722532081664",
+				"name": "✨쩡님✨",
+				"screen_name": "JJUNG_2171",
+				"location": "",
+				"description": "[1차/본계: @bcat2171 ] 2차덕질계 | 원피스/혐스일/etc | 논커플링/HL위주 | 스포주의 | 알티환영 | 본인그림재알티 자주합니다 | FUB FREE | 트친소 한동안 안받습니다!",
+				"url": "https://t.co/foszF7Cm8g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/foszF7Cm8g",
+								"expanded_url": "https://www.pixiv.net/member.php?id=8675112",
+								"display_url": "pixiv.net/member.php?id=…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 113,
+				"friends_count": 64,
+				"listed_count": 0,
+				"created_at": "Fri Jul 14 09:38:52 +0000 2017",
+				"favourites_count": 2490,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8299,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961867922179158016/aDQHOtFK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961867922179158016/aDQHOtFK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/885795722532081664/1503148922",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Feb 10 15:38:11 +0000 2018",
 		"id": 962349987421085700,
 		"id_str": "962349987421085697",
