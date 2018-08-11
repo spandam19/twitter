@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 11 06:13:53 +0000 2018",
+		"id": 1028162569595285500,
+		"id_str": "1028162569595285504",
+		"text": "RT @dkdltmzld: 이러고 한참이나 놀았는데 사실 복숭아를 꺼내서 축구를 하고 싶었던게 아닐까 하고 생각함 https://t.co/PwB79x17Vw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dkdltmzld",
+					"name": "아킹",
+					"id": 2425563644,
+					"id_str": "2425563644",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1028131399172157400,
+					"id_str": "1028131399172157440",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1028131399172157440/pu/img/cPhkiAiMJjEGl6h2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1028131399172157440/pu/img/cPhkiAiMJjEGl6h2.jpg",
+					"url": "https://t.co/PwB79x17Vw",
+					"display_url": "pic.twitter.com/PwB79x17Vw",
+					"expanded_url": "https://twitter.com/dkdltmzld/status/1028131453568073728/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028131453568073700,
+					"source_status_id_str": "1028131453568073728",
+					"source_user_id": 2425563644,
+					"source_user_id_str": "2425563644"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1028131399172157400,
+					"id_str": "1028131399172157440",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1028131399172157440/pu/img/cPhkiAiMJjEGl6h2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1028131399172157440/pu/img/cPhkiAiMJjEGl6h2.jpg",
+					"url": "https://t.co/PwB79x17Vw",
+					"display_url": "pic.twitter.com/PwB79x17Vw",
+					"expanded_url": "https://twitter.com/dkdltmzld/status/1028131453568073728/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028131453568073700,
+					"source_status_id_str": "1028131453568073728",
+					"source_user_id": 2425563644,
+					"source_user_id_str": "2425563644",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 10130,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1028131399172157440/pu/vid/720x1280/_KD5k0om_MjVfvXL.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1028131399172157440/pu/vid/360x640/kXn-UidTIFEWDMTq.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1028131399172157440/pu/vid/180x320/1xHad1bMcxHpNCuf.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1028131399172157440/pu/pl/4q5gn4J7jmxadtcd.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2425563644,
+							"id_str": "2425563644",
+							"name": "아킹",
+							"screen_name": "dkdltmzld",
+							"location": "",
+							"description": "_( :3」∠)_ 덕질 계정 입니다 조아라에서 혐오스런 스팬담의 일생 연재중",
+							"url": "https://t.co/8DA0k8XBid",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/8DA0k8XBid",
+											"expanded_url": "https://dktlgksk.postype.com",
+											"display_url": "dktlgksk.postype.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3059,
+							"friends_count": 146,
+							"listed_count": 17,
+							"created_at": "Thu Apr 03 12:37:30 +0000 2014",
+							"favourites_count": 18750,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 7518,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/817013890529660928/TRmqbYYq_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/817013890529660928/TRmqbYYq_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2425563644/1477323981",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 624,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7021,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 11 04:10:14 +0000 2018",
+			"id": 1028131453568073700,
+			"id_str": "1028131453568073728",
+			"text": "이러고 한참이나 놀았는데 사실 복숭아를 꺼내서 축구를 하고 싶었던게 아닐까 하고 생각함 https://t.co/PwB79x17Vw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1028131399172157400,
+						"id_str": "1028131399172157440",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1028131399172157440/pu/img/cPhkiAiMJjEGl6h2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1028131399172157440/pu/img/cPhkiAiMJjEGl6h2.jpg",
+						"url": "https://t.co/PwB79x17Vw",
+						"display_url": "pic.twitter.com/PwB79x17Vw",
+						"expanded_url": "https://twitter.com/dkdltmzld/status/1028131453568073728/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1028131399172157400,
+						"id_str": "1028131399172157440",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1028131399172157440/pu/img/cPhkiAiMJjEGl6h2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1028131399172157440/pu/img/cPhkiAiMJjEGl6h2.jpg",
+						"url": "https://t.co/PwB79x17Vw",
+						"display_url": "pic.twitter.com/PwB79x17Vw",
+						"expanded_url": "https://twitter.com/dkdltmzld/status/1028131453568073728/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 10130,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1028131399172157440/pu/vid/720x1280/_KD5k0om_MjVfvXL.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1028131399172157440/pu/vid/360x640/kXn-UidTIFEWDMTq.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1028131399172157440/pu/vid/180x320/1xHad1bMcxHpNCuf.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1028131399172157440/pu/pl/4q5gn4J7jmxadtcd.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1028130697347645400,
+			"in_reply_to_status_id_str": "1028130697347645440",
+			"in_reply_to_user_id": 2425563644,
+			"in_reply_to_user_id_str": "2425563644",
+			"in_reply_to_screen_name": "dkdltmzld",
+			"user": {
+				"id": 2425563644,
+				"id_str": "2425563644",
+				"name": "아킹",
+				"screen_name": "dkdltmzld",
+				"location": "",
+				"description": "_( :3」∠)_ 덕질 계정 입니다 조아라에서 혐오스런 스팬담의 일생 연재중",
+				"url": "https://t.co/8DA0k8XBid",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8DA0k8XBid",
+								"expanded_url": "https://dktlgksk.postype.com",
+								"display_url": "dktlgksk.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3059,
+				"friends_count": 146,
+				"listed_count": 17,
+				"created_at": "Thu Apr 03 12:37:30 +0000 2014",
+				"favourites_count": 18750,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7518,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817013890529660928/TRmqbYYq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817013890529660928/TRmqbYYq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2425563644/1477323981",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 172,
+			"favorite_count": 121,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Aug 10 17:40:03 +0000 2018",
 		"id": 1027972860009037800,
 		"id_str": "1027972860009037824",
