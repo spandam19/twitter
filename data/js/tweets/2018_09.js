@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sat Sep 08 12:55:43 +0000 2018",
+		"id": 1038410553218150400,
+		"id_str": "1038410553218150400",
+		"text": "RT @tumblr170412: https://t.co/lp5v6vDjkj\n\n혐오스런 스팬담의 일생 앤솔로지에 참여한 '오장님은 퇴장하고 싶어' 원고를 무료공개합니다! 여러분 오늘 교류회 정말 재미있었습니다ㅠㅠㅠㅠㅠ!!!!! 집에서 행복하게 658p…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tumblr170412",
+					"name": "🔥길듕🔥",
+					"id": 852120760340672500,
+					"id_str": "852120760340672512",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lp5v6vDjkj",
+					"expanded_url": "http://posty.pe/ztkc00",
+					"display_url": "posty.pe/ztkc00",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877195967023403000,
+			"id_str": "877195967023403009",
+			"name": "혐스일 대나무숲 3",
+			"screen_name": "spandambamboo3",
+			"location": "",
+			"description": "원피스 패러디 소설 [혐오스런 스팬담의 일생] 대나무숲입니다. 마음껏 이용하시되 악용하지 말아주세요. 본계 인증식으로, DM(쪽지) 주시면 비번 보내드립니다. 공지사항은 메인트윗에 있습니다 - 읽어주세요! ※작성자의 사전동의 없는 무단전재를 금지합니다※ 인장/헤더: @jwapyoman_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 644,
+			"friends_count": 4,
+			"listed_count": 2,
+			"created_at": "Tue Jun 20 16:06:30 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7070,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877198335660118016/M79eCQzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877195967023403009/1497975358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 08 12:40:52 +0000 2018",
+			"id": 1038406816948867100,
+			"id_str": "1038406816948867072",
+			"text": "https://t.co/lp5v6vDjkj\n\n혐오스런 스팬담의 일생 앤솔로지에 참여한 '오장님은 퇴장하고 싶어' 원고를 무료공개합니다! 여러분 오늘 교류회 정말 재미있었습니다ㅠㅠㅠㅠㅠ!!!!! 집에서 행복하… https://t.co/f2zlLSNwrf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lp5v6vDjkj",
+						"expanded_url": "http://posty.pe/ztkc00",
+						"display_url": "posty.pe/ztkc00",
+						"indices": [
+							0,
+							23
+						]
+					},
+					{
+						"url": "https://t.co/f2zlLSNwrf",
+						"expanded_url": "https://twitter.com/i/web/status/1038406816948867072",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852120760340672500,
+				"id_str": "852120760340672512",
+				"name": "🔥길듕🔥",
+				"screen_name": "tumblr170412",
+				"location": "",
+				"description": "잡덕 냠냠~\n👀헤어질땐 블언블 해주세욤👀\n잡담많음! /인용알티멘션 프리~~/맞팔은 멘션주세여!\n장르팔로 핵비추",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1512,
+				"friends_count": 250,
+				"listed_count": 4,
+				"created_at": "Wed Apr 12 11:26:35 +0000 2017",
+				"favourites_count": 12928,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5716,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013031415540211712/pPYZSs3Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013031415540211712/pPYZSs3Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852120760340672512/1534449411",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Sep 08 08:39:47 +0000 2018",
 		"id": 1038346144491888600,
 		"id_str": "1038346144491888640",
