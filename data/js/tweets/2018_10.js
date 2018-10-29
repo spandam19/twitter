@@ -367,6 +367,211 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 69,
 			"listed_count": 0,
 			"created_at": "Thu Oct 18 15:47:02 +0000 2018",
+			"favourites_count": 1193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 394,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1056579349384638470/BwVlMM_P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056579349384638470/BwVlMM_P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1052949180782534656/1540032561",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#혐스일 고삼이 그려봤다! 태그안달아서 다시올림 작가님께서 고삼이 외모 안정했으니까 내가 정한다☆ 빠밤) https://t.co/ZuonEsmESe"
+	},
+	{
+		"created_at": "Sun Oct 21 04:56:07 +0000 2018",
+		"id": 1053872535505227800,
+		"id_str": "1053872535505227776",
+		"full_text": "#혐스일 고삼이 그려봤다! 태그안달아서 다시올림 작가님께서 고삼이 외모 안정했으니까 내가 정한다☆ 빠밤) https://t.co/ZuonEsmESe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053872519126515700,
+					"id_str": "1053872519126515713",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DqAbePUVAAEK5kc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqAbePUVAAEK5kc.jpg",
+					"url": "https://t.co/ZuonEsmESe",
+					"display_url": "pic.twitter.com/ZuonEsmESe",
+					"expanded_url": "https://twitter.com/Hailen_0/status/1053872535505227776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053872519126515700,
+					"id_str": "1053872519126515713",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DqAbePUVAAEK5kc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqAbePUVAAEK5kc.jpg",
+					"url": "https://t.co/ZuonEsmESe",
+					"display_url": "pic.twitter.com/ZuonEsmESe",
+					"expanded_url": "https://twitter.com/Hailen_0/status/1053872535505227776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1053872527418712000,
+					"id_str": "1053872527418712064",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DqAbeuNV4AAqF8z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqAbeuNV4AAqF8z.jpg",
+					"url": "https://t.co/ZuonEsmESe",
+					"display_url": "pic.twitter.com/ZuonEsmESe",
+					"expanded_url": "https://twitter.com/Hailen_0/status/1053872535505227776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1052949180782534700,
+			"id_str": "1052949180782534656",
+			"name": "하이렌",
+			"screen_name": "Hailen_0",
+			"location": "그대의 마음속...☆",
+			"description": "덕질계정 / FUB FREE / ☆원피스☆ / 혐스일 / 우삼총 / 쿠키런 / 해리포터 / 히로아카 / 본진은 원피스지만 딴것도 좋아함=잡덕 / 마음요정 / 말걸어주세여 / 인장은 김렝님♡(@OREO_23Pam)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29,
+			"friends_count": 69,
+			"listed_count": 0,
+			"created_at": "Thu Oct 18 15:47:02 +0000 2018",
 			"favourites_count": 1195,
 			"utc_offset": null,
 			"time_zone": null,
