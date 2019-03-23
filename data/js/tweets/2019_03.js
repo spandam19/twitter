@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 07:54:48 +0000 2019",
+		"id": 1109295153771151400,
+		"id_str": "1109362848713433088",
+		"full_text": "암튼 여러분!! 제가 라프텔하고 원피스에 관해 진짜 설득력 잇는 갓-전개를 생각해냈다구요!!! 드레스로자 이후를 몰라도 되고 와노쿠니의 ㅇ 도 안나와도 되는 전개에요!!!! 박수!!!!!\nㅎ ㅏ 진짜 개쩌는 아이디어인데 반전이라 아직 설명을 못하네 하",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2425563644,
+			"id_str": "2425563644",
+			"name": "아킹",
+			"screen_name": "dkdltmzld",
+			"location": "",
+			"description": "덕질 계정 입니다",
+			"url": "https://t.co/8DA0k8XBid",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8DA0k8XBid",
+							"expanded_url": "https://dktlgksk.postype.com",
+							"display_url": "dktlgksk.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3135,
+			"friends_count": 113,
+			"listed_count": 20,
+			"created_at": "Thu Apr 03 12:37:30 +0000 2014",
+			"favourites_count": 19396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7861,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817013890529660928/TRmqbYYq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817013890529660928/TRmqbYYq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2425563644/1477323981",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 139,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "암튼 여러분!! 제가 라프텔하고 원피스에 관해 진짜 설득력 잇는 갓-전개를 생각해냈다구요!!! 드레스로자 이후를 몰라도 되고 와노쿠니의 ㅇ 도 안나와도 되는 전개에요!!!! 박수!!!!!\nㅎ ㅏ 진짜 개쩌는 아이디어인데 반전이라 아직 설명을 못하네 하"
+	},
+	{
 		"created_at": "Fri Mar 22 22:24:03 +0000 2019",
 		"id": 1109104899671777300,
 		"id_str": "1109219215670566913",
