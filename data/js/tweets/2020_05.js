@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 08:16:05 +0000 2020",
+		"id": 1265193020732792800,
+		"id_str": "1265194987605524482",
+		"full_text": "쌍둥이 장관님 https://t.co/KGPXrBrrjF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265193002458210300,
+					"id_str": "1265193002458210304",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/EY7eVRvU4AAvhLY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY7eVRvU4AAvhLY.jpg",
+					"url": "https://t.co/KGPXrBrrjF",
+					"display_url": "pic.twitter.com/KGPXrBrrjF",
+					"expanded_url": "https://twitter.com/Owl506/status/1265193020732792833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 642,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1133,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1700,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265193002458210300,
+					"id_str": "1265193002458210304",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/EY7eVRvU4AAvhLY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY7eVRvU4AAvhLY.jpg",
+					"url": "https://t.co/KGPXrBrrjF",
+					"display_url": "pic.twitter.com/KGPXrBrrjF",
+					"expanded_url": "https://twitter.com/Owl506/status/1265193020732792833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 642,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1133,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1700,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1261538320246386700,
+			"id_str": "1261538320246386688",
+			"name": "루계",
+			"screen_name": "Owl506",
+			"location": "",
+			"description": "혐스일과 미일보를 본 계정 / 자료보고 그린거 섞여있음\nhttps://t.co/uPqu5RX6Yg",
+			"url": "https://t.co/FvT7hfPzVT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FvT7hfPzVT",
+							"expanded_url": "https://orbit-zig.postype.com/series/542519/",
+							"display_url": "orbit-zig.postype.com/series/542519/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uPqu5RX6Yg",
+							"expanded_url": "http://m.joara.com/book/840657",
+							"display_url": "m.joara.com/book/840657",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Sat May 16 06:05:59 +0000 2020",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262763750454489088/N_LumHTN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262763750454489088/N_LumHTN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1261538320246386688/1590467395",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쌍둥이 장관님 https://t.co/KGPXrBrrjF"
+	},
+	{
 		"created_at": "Tue May 26 04:45:31 +0000 2020",
 		"id": 1265141996936548400,
 		"id_str": "1265141996936548352",
