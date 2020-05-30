@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 30 15:14:20 +0000 2020",
+		"id": 1261650140156137500,
+		"id_str": "1266749794686341125",
+		"full_text": "#혐스일_전력\n[표현]\n도플라밍고랑 장관도 좋지 않나요... https://t.co/d5nsFSWc2T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일_전력",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261650122221338600,
+					"id_str": "1261650122221338626",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EYJIGgXUwAIemhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYJIGgXUwAIemhi.jpg",
+					"url": "https://t.co/d5nsFSWc2T",
+					"display_url": "pic.twitter.com/d5nsFSWc2T",
+					"expanded_url": "https://twitter.com/herb91178618/status/1261650140156137480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261650122221338600,
+					"id_str": "1261650122221338626",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EYJIGgXUwAIemhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYJIGgXUwAIemhi.jpg",
+					"url": "https://t.co/d5nsFSWc2T",
+					"display_url": "pic.twitter.com/d5nsFSWc2T",
+					"expanded_url": "https://twitter.com/herb91178618/status/1261650140156137480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261650131209744400,
+					"id_str": "1261650131209744386",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EYJIHB2U8AI8nw2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYJIHB2U8AI8nw2.jpg",
+					"url": "https://t.co/d5nsFSWc2T",
+					"display_url": "pic.twitter.com/d5nsFSWc2T",
+					"expanded_url": "https://twitter.com/herb91178618/status/1261650140156137480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1221033590844035000,
+			"id_str": "1221033590844035072",
+			"name": "민트초코초코",
+			"screen_name": "herb91178618",
+			"location": "",
+			"description": "혐스일 중심. 가끔 적강(쿠농)\n\n성인계@mmiinnt41422719\n성인분들만 부탁드려요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50,
+			"friends_count": 62,
+			"listed_count": 1,
+			"created_at": "Sat Jan 25 11:34:48 +0000 2020",
+			"favourites_count": 2794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245378402556624896/au1qzdeL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245378402556624896/au1qzdeL_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#혐스일_전력\n[표현]\n도플라밍고랑 장관도 좋지 않나요... https://t.co/d5nsFSWc2T"
+	},
+	{
+		"created_at": "Sat May 30 15:13:36 +0000 2020",
+		"id": 1265307538733424600,
+		"id_str": "1266749607087759360",
+		"full_text": "혐스일 그 사건 이후(재업) https://t.co/UNL4Ly0TnJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265307444504191000,
+					"id_str": "1265307444504190977",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EY9GarlUYAE26rw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY9GarlUYAE26rw.jpg",
+					"url": "https://t.co/UNL4Ly0TnJ",
+					"display_url": "pic.twitter.com/UNL4Ly0TnJ",
+					"expanded_url": "https://twitter.com/ddurutddu/status/1265307538733424640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265307444504191000,
+					"id_str": "1265307444504190977",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EY9GarlUYAE26rw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY9GarlUYAE26rw.jpg",
+					"url": "https://t.co/UNL4Ly0TnJ",
+					"display_url": "pic.twitter.com/UNL4Ly0TnJ",
+					"expanded_url": "https://twitter.com/ddurutddu/status/1265307538733424640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1218187923104731100,
+			"id_str": "1218187923104731136",
+			"name": "뚜룻뚜",
+			"screen_name": "ddurutddu",
+			"location": "",
+			"description": "혐스일 혼잣말하는 계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46,
+			"friends_count": 7,
+			"listed_count": 0,
+			"created_at": "Fri Jan 17 15:06:55 +0000 2020",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240519318690918400/YRGMPQ9W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240519318690918400/YRGMPQ9W_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "혐스일 그 사건 이후(재업) https://t.co/UNL4Ly0TnJ"
+	},
+	{
+		"created_at": "Sat May 30 15:13:28 +0000 2020",
+		"id": 1266723834410856400,
+		"id_str": "1266749575672418310",
+		"full_text": "#혐스일_전력\n&lt;부채&gt; https://t.co/uGIvBqVgrY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혐스일_전력",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266723817314873300,
+					"id_str": "1266723817314873344",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZROmbeUcAAfgHc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZROmbeUcAAfgHc.jpg",
+					"url": "https://t.co/uGIvBqVgrY",
+					"display_url": "pic.twitter.com/uGIvBqVgrY",
+					"expanded_url": "https://twitter.com/herb91178618/status/1266723834410856454/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 650,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 650,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266723817314873300,
+					"id_str": "1266723817314873344",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZROmbeUcAAfgHc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZROmbeUcAAfgHc.jpg",
+					"url": "https://t.co/uGIvBqVgrY",
+					"display_url": "pic.twitter.com/uGIvBqVgrY",
+					"expanded_url": "https://twitter.com/herb91178618/status/1266723834410856454/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 650,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 650,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1266723825456038000,
+					"id_str": "1266723825456037890",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZROm5zUwAITUnF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZROm5zUwAITUnF.jpg",
+					"url": "https://t.co/uGIvBqVgrY",
+					"display_url": "pic.twitter.com/uGIvBqVgrY",
+					"expanded_url": "https://twitter.com/herb91178618/status/1266723834410856454/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 845,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 845,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1221033590844035000,
+			"id_str": "1221033590844035072",
+			"name": "민트초코초코",
+			"screen_name": "herb91178618",
+			"location": "",
+			"description": "혐스일 중심. 가끔 적강(쿠농)\n\n성인계@mmiinnt41422719\n성인분들만 부탁드려요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50,
+			"friends_count": 62,
+			"listed_count": 1,
+			"created_at": "Sat Jan 25 11:34:48 +0000 2020",
+			"favourites_count": 2794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245378402556624896/au1qzdeL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245378402556624896/au1qzdeL_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#혐스일_전력\n&lt;부채&gt; https://t.co/uGIvBqVgrY"
+	},
+	{
 		"created_at": "Thu May 28 02:16:02 +0000 2020",
 		"id": 1265829152738824200,
 		"id_str": "1265829152738824196",
