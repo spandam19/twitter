@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 30 21:35:20 +0000 2020",
+		"id": 1266541598768164900,
+		"id_str": "1266845676874264576",
+		"full_text": "https://t.co/tJ940qNLPy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266541577708556300,
+					"id_str": "1266541577708556288",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EZOo2sCU0AA48o3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZOo2sCU0AA48o3.jpg",
+					"url": "https://t.co/tJ940qNLPy",
+					"display_url": "pic.twitter.com/tJ940qNLPy",
+					"expanded_url": "https://twitter.com/Owl506/status/1266541598768164864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 970,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266541577708556300,
+					"id_str": "1266541577708556288",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EZOo2sCU0AA48o3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZOo2sCU0AA48o3.jpg",
+					"url": "https://t.co/tJ940qNLPy",
+					"display_url": "pic.twitter.com/tJ940qNLPy",
+					"expanded_url": "https://twitter.com/Owl506/status/1266541598768164864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 970,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1261538320246386700,
+			"id_str": "1261538320246386688",
+			"name": "루계",
+			"screen_name": "Owl506",
+			"location": "",
+			"description": "혐스일과 미일보를 본 계정 / 루치장관 위주 :3\nhttps://t.co/uPqu5RX6Yg",
+			"url": "https://t.co/FvT7hfPzVT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FvT7hfPzVT",
+							"expanded_url": "https://orbit-zig.postype.com/series/542519/",
+							"display_url": "orbit-zig.postype.com/series/542519/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uPqu5RX6Yg",
+							"expanded_url": "http://m.joara.com/book/840657",
+							"display_url": "m.joara.com/book/840657",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 65,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Sat May 16 06:05:59 +0000 2020",
+			"favourites_count": 416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265258680921886720/EMPFixlZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265258680921886720/EMPFixlZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1261538320246386688/1590496107",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/tJ940qNLPy"
+	},
+	{
 		"created_at": "Sat May 30 15:14:20 +0000 2020",
 		"id": 1261650140156137500,
 		"id_str": "1266749794686341125",
